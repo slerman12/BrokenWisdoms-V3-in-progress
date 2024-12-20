@@ -93,7 +93,7 @@ It was in that house when Aetna cut me off from Dupilumab and my hair started fa
 
 ## University of Rochester Induced Hair Loss <!--(*fellowship with man*)-->
 
-Some time into taking the medication—I think maybe 8 months—my university-provided health insurance Aetna **cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital**, but by the university-owned intermediary deliverer around the scheduled delivery date, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't—or at least at the time, due to it being a "specialty drug"—be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor: <!--for some reason-->without explanation Aetna had decided to no longer cover the prescription (for me). 
+Some time into taking the medication—I think maybe 8 months—my university-provided health insurance Aetna **cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital**, but by the university-owned intermediary deliverer around the scheduled delivery date, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't—or at least at the time, due to it being a "specialty drug"—be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor: <!--for some reason-->without explanation Aetna had decided to no longer cover the prescription of the drug for me. 
 
 `Aetna cut me off from Dupilumab, prescribed to me by the University of Rochester, about 8 months into my dependency without warning.`
 
