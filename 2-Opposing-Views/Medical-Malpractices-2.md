@@ -167,6 +167,14 @@ A deeper summary of my benzo trauma can be found [here](5-Opposing-Views.md). <!
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
+## Scottland
+
+When Jordan Peterson recovered, he went to Russia—wait, the other way around. He went to Russia, where he got unorthodox treatment, and they brought him into good shape, or at least less-torment shape, through some unorthodox treatment, he and his daughter report. For months to maybe a year from withdrawal, he was largely unable to stand up. His family had to take care of him.
+
+I was in so much torture in the last months of taking benzos, and even more during withdrawal.
+
+In the first week of finishing my tapering, the Finland woman invited me to Scottland, and I traveled by airplane—internationally—myself. I was unable to read the airplane terminals. I couldn’t understand the words from the speakers. I was in so much pain, but I wouldn’t miss it.
+
 ## Dyeda
 
 ### War
