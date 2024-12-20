@@ -1,6 +1,6 @@
 # Table of Contents
 
-- <a href='/1)%20Sam/Prologue.md#prologue'>**Sam**</a>
+- <a href='/1)%20Sam/'>**Sam**</a>
   - Cover Page
   - Prologue
     - Dialogue of the Congress 1
