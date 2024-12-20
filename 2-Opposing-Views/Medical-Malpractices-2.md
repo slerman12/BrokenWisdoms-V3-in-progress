@@ -41,9 +41,9 @@ My mother was 33 when she had my sister, Marina. Five years later, at 38, she ha
 
 "Sam of Samarkand" (nor "Marina of Maracanda," actually) wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, ultimately becoming "Sam of Samarkand" in America [independent of any of us](3-Opposing-Views.md#immigration).
 
-### Long-Ancestral PTSD
+### Ancestral Innocence
 
-The war and rough upbringings mean my family neurologically has some downregulated levels of GABA, and perhaps toughens through what most would call PTSD.
+The war and rough upbringings mean my family neurologically has some downregulated levels of GABA, and perhaps toughens through what most would call PTSD in the way hobbits do, cheerfully, working hard, not realizing the pressure on us.
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
