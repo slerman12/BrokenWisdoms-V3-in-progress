@@ -60,7 +60,7 @@ In the hospitalization between the benzo-trauma inititiating one and this one, [
 
 I think they did a Covid test before transferring me, though I don't recall one. I'm just inferring, since it was a geriatric unit (a unit for the elderly). Yes, I recall mention of a Covid test. I don't know if it was before or after the dungeon-area.
 
-### To Summarize
+### To Summarize:
 
 - `My big toe was painfully run over by the nurse, and ignored`, no attention paid, disregarded screaming.
 - `I had to sleep in a chair in a shared open area filled with other patients for a week` with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and `with food mostly only that I was allergic to`, while in an increasingly sensitive state, and `being told I'd be transferred to a room later that day or the next day.`
