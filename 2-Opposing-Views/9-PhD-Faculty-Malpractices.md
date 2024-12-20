@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
  <picture>
@@ -8,7 +7,7 @@
 </a>
 </p>
 
-# Part 7
+# Part 9
 
 - **University PhD advisors**
 - **University PhD committee members**
