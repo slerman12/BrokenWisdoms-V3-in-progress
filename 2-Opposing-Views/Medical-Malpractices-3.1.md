@@ -17,7 +17,7 @@ My grandma was about 24 when she and my grandpa (different Yura) arrived to Sama
 
 ### Nails
 
-My grandma was about 24 when she and my grandpa (different Yura) had to immigrate to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of two separate fields, Russian language, and literature, and later, an academic principal of a school and continued teaching.
+My grandma was about 24 when she and my grandpa (different Yura, a year younger) had to immigrate to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of two separate fields, Russian language, and literature, and later, an academic principal of a school and continued teaching.
 
 At old age, she had long grey hair, down to even her waist or hips. She curled it up behind her head, in a very elegant/pretty bun, with hair pins.
 
