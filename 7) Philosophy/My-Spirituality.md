@@ -124,7 +124,7 @@ Moreover, it meant the former were trying to help the latter
 
 Today I see the two at war, the former sabotaging the latter, corrupt, using cynical and unethical, deleterious and identity-stealing tactics, with the former composed of intelligences that are less intelligent than me, my ego, and those intelligences are mechanical, almost artificial—predictable and maybe barely sentient—rather than God spirits of wisdom and beauty and the deeper iceberg and ocean
 
-It’s more like ego in relation to id(s) and superegos, both less intelligent and unattributable even the deeper wisdom of the ego (this is like the Freudian view), maybe some super being God working independent of the 3 as particles of a universe that’s more loving than its people (if not autonomous and unintelligent, too)
+It’s more like ego in relation to id(s) and superego(s), both less intelligent and unattributable even the deeper wisdom of the ego (this is like the Freudian view), maybe some super being God working independent of the 3 as particles of a universe that’s more loving than its people (if not autonomous and unintelligent, too)
 
 Jung’s view/cosmology is gone from my perception for the most part. I even have a notion of a superconscious to account for what I identify as a stupid subconscious 
 
