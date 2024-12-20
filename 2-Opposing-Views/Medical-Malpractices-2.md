@@ -43,7 +43,7 @@ My mother was 33 when she had my sister, Marina. Five years later, at 38, she ha
 
 ### Ancestral Innocence
 
-The war and rough upbringings mean my family neurologically has some downregulated levels of GABA, and perhaps toughens through what most would call PTSD in the way hobbits do, cheerfully, working hard, not realizing the pressure on us.
+The war and rough upbringings mean my family neurologically has some downregulated levels of GABA, and perhaps toughens through what most would call PTSD, in the way hobbits do: cheerfully, working hard, not realizing the pressure on us.
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
