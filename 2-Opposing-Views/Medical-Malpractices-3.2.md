@@ -88,6 +88,8 @@ Nor Hollywood, even. At the end of [A Beautiful Mind](https://en.wikipedia.org/w
 
 Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed eczema-causing food, more coerced benzos, and interrogative military clinicians -> geriatric unit -> them arguing carbs were a necessary part of a healthy diet and stating that the reason for holding me in that hospitalization was that I wasn't eating enough (even as I ate all of their garbage food).
 
+> Make a diagram here too
+
 ## Second Induced Hair Loss
 
 Full head hair regrowth in Alopecia Universalis, especially with comorbid eczema, is extremely medically rare. 
