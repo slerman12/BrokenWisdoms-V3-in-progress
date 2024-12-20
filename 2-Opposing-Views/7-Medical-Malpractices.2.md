@@ -1,6 +1,6 @@
 > To do: Make a diagram specifically for geriatric unit hospitalization (University of Rochester's Strong Hospital).
 
-# Part 3.2
+# Part 6.2
 
 - **University-hospital ambulance**
 - **University-hospital system**
@@ -100,7 +100,7 @@ Full head hair regrowth in Alopecia Universalis, especially with comorbid eczema
 
 By the time of [Hospitlization 3](4-Holy-Faith/Psyche.md#comedic-aside-sexier-moments-during-chenliang-advising) (the one previous to the geriatric unit), I was on a mostly-steak-only diet since at least as far back as June, 2020 (with wild-caught salmon as well), which I remember since at that time I was working on my Taylor-CAM paper, but probably back to May or April.
 
-See [here](2-Medical-Malpractices-2.md#jordan-peterson) for where I'd initially heard of this diet from, Jordan Peterson's daughter, Michaela Fuller. Specifically, the diet I heard of from her and read about was the "beef-only" diet or "carnivore," and for her consisted mostly of high-end steak.
+See [here](2-Medical-Malpractices.md#jordan-peterson) for where I'd initially heard of this diet from, Jordan Peterson's daughter, Michaela Fuller. Specifically, the diet I heard of from her and read about was the "beef-only" diet or "carnivore," and for her consisted mostly of high-end steak.
 
 The first month of that diet included many unwanted but temporary and [expected](https://carnivoresnax.com/blogs/articles/side-effects-of-carnivore-diet?srsltid=AfmBOooxOb6gWQrauNAH3Eqc9rI2AqqSU61Tp1dTbRSRpzqtyBlfsMFP) physical symptoms.
 
