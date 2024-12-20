@@ -95,7 +95,7 @@ Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance
 Despite the similarities to alcohol, benzos are synthetic, achieve much the same effect without a person being able to notice the same short-term consequences like immediate hangover, and are often prescribed to be taken daily for long periods of time. [Studies haven't shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/) that the long-term consequences are preferable to those of alcohol, many [quite the opposite](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8629021/), and <!--(at least)--> my experience<!--, as well as that of [many others](https://www.reddit.com/r/benzorecovery/), taking only as prescribed, were--> was so severe that I <!--would--> strongly bet worse. 
 <!--Maybe add if the kind of alcohol matters, e.g., 100% agave blue resposado tequila-->
 
-## My Trauma
+## Trauma
 
 My trauma revolves around three psychiatrists.
 
