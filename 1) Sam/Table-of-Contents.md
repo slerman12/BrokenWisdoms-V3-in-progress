@@ -20,7 +20,7 @@
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine ("Benzos") Mechanism of Action
       - Trauma
-      - Deyeda
+      - Dyeda
         - War
         - A New Name
         - Asya and Yury
