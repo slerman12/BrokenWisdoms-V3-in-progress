@@ -17,7 +17,7 @@
 - **University-hospital doctor**
 - **University-owned drug deliverer**
 
-Severe Eczema Since a Month and a Half, Infancy
+## Severe Eczema Since a Month and a Half, Infancy
 
 From just a month and a half old, I had severe eczema. It wasn’t something I could escape. The itchiness overwhelmed me, and my tiny infant hands couldn’t stop scratching—scratching until my skin bled, as my mom described. It was endless. I cried, scratched, and cried some more. My mom, desperate to help, put me in a baby’s shirt with mittens sewn onto the sleeves, trying to stop the scratching, trying to stop me from hurting myself.
 
