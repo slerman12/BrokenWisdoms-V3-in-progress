@@ -47,7 +47,7 @@ My mom recounted this memory [in an interview recently](link to interview).
 
 My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had and the only one I'd ever used through high school and college.
 
-In that 2017 summer, before I started the Dupilumab, my mom and I celebrated my graduation from college ("uni," in European-speak) by going to Europe, and my razor broke in the luggage.
+In the 2017 summer, before I started the eczema medication Dupilumab, my mom and I celebrated my graduation from college ("uni," in European-speak) by going to Europe, and my razor broke in the luggage.
 
 In high school, I had always talked of Finland in my arguing points with the *Republican Christians* or just Republicans of my school, referring to it for its economic policies and speicfically that it's ranked highest in the world's happiness index. That was something I said a lot, a go-to point in my political debates, since happiness is a better measure of a country's wellbeing than any metric, I argued.
 
