@@ -15,7 +15,7 @@
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
-A few months after losing my hair, I was hospitalized, for reasons independent to eczema or the hair loss. *I came in for eczema.* I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized, yet. In 2018, they found me in teh woods. I was there because of delusions—well, beliefs that were delusions, but which, either through my psychology's improvisation, some higher planning, or projection, ended up having longer-term narrative cohesion later. The snapshot of what happened begins in the chapter ["Crisis."](#crisis)
+A few months after losing my hair, I was hospitalized, for reasons independent to eczema or the hair loss. *I came in for eczema.* I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized, yet. In 2018, they found me in the woods. I wasn't trying to harm myself. I was there because of delusions—well, beliefs that were delusions, but which, either through my psychology's improvisation, some higher planning, or projection, ended up having longer-term narrative cohesion later. The snapshot of what happened begins in the chapter ["Crisis."](#crisis)
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$. 
 
