@@ -207,4 +207,4 @@ My mother was 33 when she had my sister, Marina. Five years later, at 38, she ha
 
 The war and rough upbringings mean my family neurologically has some downregulated levels of GABA, and perhaps toughens through what most would call PTSD, in the way hobbits do: cheerfully, working hard, not realizing the pressure on us.
 
-It takes a lot—a lot—for that awareness to realize.
+It takes a lot—a lot—for that awareness—PTSD—to realize.
