@@ -201,7 +201,7 @@ In that city, my uncle Slava was born first, then my mother, Nélya. Later, my u
 
 My mother was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mother wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandmother’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
 
-"Sam of Samarkand" (nor "Marina of Maracanda") wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, ultimately becoming "Sam of Samarkand" in America [independent of any of us](3-Opposing-Views.md#immigration).
+"Sam of Samarkand" (nor "Marina of Maracanda") wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, due to the formal mistakes and truncations of others, ultimately becoming "Sam of Samarkand" in America [independent of any of us](3-Opposing-Views.md#immigration).
 
 ### Ancestral Innocence
 
