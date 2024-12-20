@@ -13,43 +13,9 @@
 - **University-hospital psychiatrists (two)**
 - **University outpatient doctor**
 
-## Dyeda
-
-### War
-
-When the Nazis came to Ukraine, they did not arrive as strangers. Long before their boots touched the soil, anti-Semitism had already taken root among many of the populace of Ukraine. The Jews of Ukraine—Ashkenazi Jews, like my family—went from persecuted to tortured, including forced displacement, and mass killings, with many victims executed and buried in mass graves. My Dyeda ("grandpa"), Yury, only 13 at the time, fled with his mother, Maná, and younger sister, Rosá, escaping eastward to the relative safety of Kazakhstan, as many other Jews evacuated similarly.
-
-Years later, when the war ended, they came back to Chernihiv. Yakob, Yury’s father, had been drafted to fight for Ukraine. He survived the war, and they were reunited—husband with wife, father with children. For years they had been apart.
-
-### A New Name
-
-At 16, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that could help him survive. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman," an old Ashkenazi Jewish surname with German origins.
-
-### Asya and Yury
-
-After the war, my grandfather went to college in Kiev. My grandmother, Asya—a Rabinovich—was in the same city, attending a different college. They had known each other as children. She was a year older. They crossed paths again, and this time, they got married. She took his surname, "Lerman."
-
-Not long after, the Soviet Union sent my grandfather to work as a leather technology engineer at a sheepskin factory in Samarkand, Uzbekistan. So, in 1952, my grandparents left behind Kiev, Chernihiv, Zhytomyr—all the places that were tied to their lives in Ukraine. They moved to Samarkand. My grandmother, too, made a new life there, teaching German.
-
-### Samarkand
-
-Samarkand is an old city. Maybe [one of the oldest in the world](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.). It’s been standing for thousands of years, its [architecture modest yet beautiful](https://travelcocktail.org/samarkand/). Back in ancient times, it was a key stop on the Silk Road, where trade routes from [China, India](https://www.britannica.com/place/Samarkand-Uzbekistan), [and Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures) all met. In the Soviet era, Russian became the dominant language, though Uzbek was used in official documents. Islam is the main religion there, then and now. Samarkand is a [city of intersections](https://whc.unesco.org/en/list/603/)—intersections of history, culture, and commerce. Its original name, Maracanda, goes back to the 4th century BCE.
-
-In that city, my uncle Slava was born first, then my mother, Nélya. Later, my aunt Jenya had two daughters, Lena and Irina, with Lena being the oldest. All of us—my cousins, my sister, and I—were born in Samarkand, Ashkenazi Jews all heritage sides, in an ancient, multi-ethnic city.
-
-My mother was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mother wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandmother’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
-
-"Sam of Samarkand" (nor "Marina of Maracanda," actually) wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, ultimately becoming "Sam of Samarkand" in America [independent of any of us](3-Opposing-Views.md#immigration).
-
-### Ancestral Innocence
-
-The war and rough upbringings mean my family neurologically has some downregulated levels of GABA, and perhaps toughens through what most would call PTSD, in the way hobbits do: cheerfully, working hard, not realizing the pressure on us.
-
-It takes a lot—a lot—for that awareness to realize.
-
 ## Psychiatry at the University of Rochester's Strong Hospital
 
-I'm $5\text{'}5\text{'' } 110\text{lb}$. *I came into the medical system for eczema, and came into the University of Rochester's medical system that summer 2017 for eczema.* I was never hospitalized previously.
+I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017 for eczema. I was never hospitalized previously. I'm $5\text{'}5\text{'' } 110\text{lb}$. 
 
 I had a prescription for benzos before, Xanax, but for eczema and social anxiety, $\text{1/4}$ to $\text{1/2}$ of a milligram to be taken daily or as needed. I took them sometimes during my junior and senior years of college at the University of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and they gave me small hangovers/dazes when the effect wore off. Knowing they were in a similar class of drugs to alcohol (see [below](#benzodiazepine-benzos-mechanism-of-action)), I took them conservatively.
 
@@ -158,3 +124,37 @@ Almost nearing Fall, 2019, I tried to kill myself. The helium tank connected to 
 A deeper summary of my benzo trauma can be found [here](5-Opposing-Views.md). <!--[here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).-->
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
+
+## Dyeda
+
+### War
+
+When the Nazis came to Ukraine, they did not arrive as strangers. Long before their boots touched the soil, anti-Semitism had already taken root among many of the populace of Ukraine. The Jews of Ukraine—Ashkenazi Jews, like my family—went from persecuted to tortured, including forced displacement, and mass killings, with many victims executed and buried in mass graves. My Dyeda ("grandpa"), Yury, only 13 at the time, fled with his mother, Maná, and younger sister, Rosá, escaping eastward to the relative safety of Kazakhstan, as many other Jews evacuated similarly.
+
+Years later, when the war ended, they came back to Chernihiv. Yakob, Yury’s father, had been drafted to fight for Ukraine. He survived the war, and they were reunited—husband with wife, father with children. For years they had been apart.
+
+### A New Name
+
+At 16, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that could help him survive. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman," an old Ashkenazi Jewish surname with German origins.
+
+### Asya and Yury
+
+After the war, my grandfather went to college in Kiev. My grandmother, Asya—a Rabinovich—was in the same city, attending a different college. They had known each other as children. She was a year older. They crossed paths again, and this time, they got married. She took his surname, "Lerman."
+
+Not long after, the Soviet Union sent my grandfather to work as a leather technology engineer at a sheepskin factory in Samarkand, Uzbekistan. So, in 1952, my grandparents left behind Kiev, Chernihiv, Zhytomyr—all the places that were tied to their lives in Ukraine. They moved to Samarkand. My grandmother, too, made a new life there, teaching German.
+
+### Samarkand
+
+Samarkand is an old city. Maybe [one of the oldest in the world](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.). It’s been standing for thousands of years, its [architecture modest yet beautiful](https://travelcocktail.org/samarkand/). Back in ancient times, it was a key stop on the Silk Road, where trade routes from [China, India](https://www.britannica.com/place/Samarkand-Uzbekistan), [and Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures) all met. In the Soviet era, Russian became the dominant language, though Uzbek was used in official documents. Islam is the main religion there, then and now. Samarkand is a [city of intersections](https://whc.unesco.org/en/list/603/)—intersections of history, culture, and commerce. Its original name, Maracanda, goes back to the 4th century BCE.
+
+In that city, my uncle Slava was born first, then my mother, Nélya. Later, my aunt Jenya had two daughters, Lena and Irina, with Lena being the oldest. All of us—my cousins, my sister, and I—were born in Samarkand, Ashkenazi Jews all heritage sides, in an ancient, multi-ethnic city.
+
+My mother was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mother wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandmother’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
+
+"Sam of Samarkand" (nor "Marina of Maracanda," actually) wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, ultimately becoming "Sam of Samarkand" in America [independent of any of us](3-Opposing-Views.md#immigration).
+
+### Ancestral Innocence
+
+The war and rough upbringings mean my family neurologically has some downregulated levels of GABA, and perhaps toughens through what most would call PTSD, in the way hobbits do: cheerfully, working hard, not realizing the pressure on us.
+
+It takes a lot—a lot—for that awareness to realize.
