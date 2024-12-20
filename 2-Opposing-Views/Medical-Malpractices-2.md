@@ -15,7 +15,7 @@
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
-I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017 for eczema. I was never hospitalized previously. I'm $5\text{'}5\text{'' } 110\text{lb}$. 
+I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized. I'm $5\text{'}5\text{'' } 110\text{lb}$. 
 
 I had a prescription for benzos before, Xanax, but for eczema and social anxiety, $\text{1/4}$ to $\text{1/2}$ of a milligram to be taken daily or as needed. I took them sometimes during my junior and senior years of college at the University of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and they gave me small hangovers/dazes when the effect wore off. Knowing they were in a similar class of drugs to alcohol (see [below](#benzodiazepine-benzos-mechanism-of-action)), I took them conservatively.
 
