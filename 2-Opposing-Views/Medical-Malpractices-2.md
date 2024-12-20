@@ -97,7 +97,7 @@ Despite the similarities to alcohol, benzos are synthetic, achieve much the same
 
 ## Trauma
 
-My trauma revolves around three psychiatrists.
+This malpractice revolves around three psychiatrists.
 
 **PSYCHIATRIST 1:** "I will taper you off from the benzos. You will be tapered off *before* discharge."
 
