@@ -45,6 +45,8 @@ My mother was 33 when she had my sister, Marina. Five years later, at 38, she ha
 
 The war and rough upbringings mean my family neurologically has some downregulated levels of GABA, and perhaps toughens through what most would call PTSD, in the way hobbits do: cheerfully, working hard, not realizing the pressure on us.
 
+It takes a lot—a lot—for that awareness to realize.
+
 ## Psychiatry at the University of Rochester's Strong Hospital
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$. *I came into the medical system for eczema, and came into the University of Rochester's medical system that summer 2017 for eczema.* I was never hospitalized previously.
