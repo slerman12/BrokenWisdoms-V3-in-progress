@@ -130,4 +130,4 @@ Jung’s view/cosmology is gone from my perception for the most part. I even hav
 
 The deeper iceberg and ocean now a lesser orchestra composed of vilifying ids
 
-> This isn't really my spirituality in December, 2024—but it's the often unavoidable perception created in my psyche
+> This isn't really my spirituality in December, 2024—but it's the often unavoidable perception created in my psyche, and I eman to show how much 7 years has done to me, from the age of 22 to 29
