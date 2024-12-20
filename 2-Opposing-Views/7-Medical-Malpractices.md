@@ -12,7 +12,7 @@
 
 Speaking of the elderly...
 
-### Stretching
+### Stretching, Vitals, and Ambulance
 
 In January, 2021, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
 
