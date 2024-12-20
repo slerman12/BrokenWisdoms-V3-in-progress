@@ -1,5 +1,3 @@
-> To do: Make a diagram specifically for geriatric unit hospitalization (University of Rochester's Strong Hospital).
-
 # Part 6.2
 
 - **University-hospital ambulance**
@@ -83,6 +81,8 @@ That appreciation is rarely seen in modern medicine.
 Nor Hollywood, even. At the end of [A Beautiful Mind](https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)), the nobel prizewinner with schizophrenia, John Nash, is depicted as achieving stability by taking his medications. The real John Nash objected to them, and lived pretty much his entire life unmedicated, starting from long before he came up with the work that led to his winning the Nobel Prize. While the movie's depiction is somehow extremely romantic to medical systems, it's inaccurate to the true history of how he surmounted his diagnoses. ["In Sylvia Nasar's book with the same title, on which the film is based, it is clearly stated that Nash stopped taking medication in 1970 because of the way it blunted his intellect. The change was apparently made because the screenwriter, Akiva Goldsman, whose mother was a prominent psychologist, was worried that the film might persuade people to stop taking their medication."](https://www.theguardian.com/society/2015/jun/02/dont-use-john-nash-schizophrenia-a-beautiful-mind-promote-anti-psychotics) Yes, the film based on a true story might persuade people wrongly. So better fabricate it. ["in a scene [around the time of the character's Nobel Prize nomination in 1994], Russell Crowe explicitly credits his recovery [...] to newer medication. The truth is that Nash stopped taking any medication in 1970. The line is a fabrication, and a conscious one."](https://www.theguardian.com/society/2015/jun/02/dont-use-john-nash-schizophrenia-a-beautiful-mind-promote-anti-psychotics)
 
 ["Nash described sanity as a form of conformity, and one about which he maintained a degree of ambivalence. 'So, at the present time, I seem to be thinking rationally in the style that is characteristic of scientists,' he wrote. 'However, this is not entirely a matter of joy, as if someone returned from physical disability to good physical health. One aspect of this is that rationality of thought imposes a limit on a person's concept of his relation to the cosmos.' There can be no doubt that to talk in such terms requires both honesty and tremendous courage. The question is whether we have the courage to hear him."](https://www.theguardian.com/society/2015/jun/02/dont-use-john-nash-schizophrenia-a-beautiful-mind-promote-anti-psychotics)
+
+> To do: Make a diagram specifically for geriatric unit hospitalization (University of Rochester's Strong Hospital).
 
 ## Chronology
 
