@@ -53,7 +53,7 @@ In high school, I had always talked of Finland in my arguing points with the Rep
 
 In the summer 2017, after graduation, my mom and I went to Finland. I had no idea I'd ever have the opportunity. I had no idea we knew relatives there. 
 
-My electric razor—from my grandpa—had broken in the luggage. There, I had to borrow somebody else's related to my grandpa, who like my grandpa when he was younger, inherited some good looking hair.
+My electric razor—from my grandpa—had broken in the luggage. There, I had to borrow somebody else's related to my grandpa, who like me and my grandpa when he was younger, inherited some good, spikeable hair.
 
 ## Premonition
 
