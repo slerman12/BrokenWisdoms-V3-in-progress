@@ -169,7 +169,7 @@ Symptoms from taking the benzos as prescribed included:
 - [Scientifically-backed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/) fear of permanent damage
 - [More than a year of all of this, no sleep, non-stop persisting neurochemical torture](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/)
 
-Almost nearing Fall, 2019, I tried to kill myself. **The helium tank connected to tubing and bag, found by my mom.** My family hid it from me.
+Almost nearing Fall, 2019, I tried to kill myself. **The helium tank connected to tubing and bag, found by my mom**; my family hid it from me.
 
 A deeper summary of my benzo trauma can be found [here](4-PhD-Faculty-Malpractices.md). <!--[here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).-->
 
