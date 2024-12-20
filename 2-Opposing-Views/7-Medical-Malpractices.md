@@ -34,7 +34,7 @@ Each day I was told I'd be transferred that day or the next day. I had to sleep 
 
 Besides the clothes they'd made me change into, I was given only highly processed foods to eat, foods that usually cause eczema, drugs including benzos, and periodic clinical visits from clinicians who could've been mistaken for military interrogators. Clinical authorities.
 
-None of them were consistent or attendant enough to see this, but I was in an increasingly sensitive state, as I was coerced through all of this, knowing-unjustly, and with no normal sleep for a week.
+None of them were consistent or attendant enough to see this, but I was in an increasingly sensitive state, as I was coerced through all of this, knowing-unjustly, and with no normal sleep for a week and more.
 
 ### Transfer After About a Week
 
