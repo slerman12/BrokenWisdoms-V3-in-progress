@@ -53,6 +53,14 @@ The way it works, is one tosses the Feng Shui coins, writes down the resulting l
 >
 > Of course, a person's psychology cannot be dismissed as independent to the interpretations, either, even when the answers are uncannily precise. However, what's suggested in this physics mechanism is that some planning mechanism can subtly bias physical behavior in the universe, either outward or inward, by a small, limited divergence. Perhaps, beyond yarrow stalks and Feng Shui coins, other kinds of convergences can be gradually eroded into being, by such a latent planning factor, making possible the seemingly acausal phenomenon known as "synchronicity." Since planning is objective-based, that would make synchronicities a "teleological connecting principle" rather than Carl Jung's traditional definition for the term, "acausal connecting principle."
 
+## Scottland
+
+When Jordan Peterson recovered, he went to Russia—wait, the other way around. He went to Russia, where he got unorthodox treatment, and they brought him into good shape, or at least less-torment shape, through some unorthodox treatment, he and his daughter report. For months to maybe a year from withdrawal, he was largely unable to stand up. His family had to take care of him.
+
+I was in so much torture in the last months of taking benzos, and even more during withdrawal.
+
+In the first week of finishing my tapering, the Finland woman invited me to Scottland, and I traveled by airplane—internationally—myself. I was unable to read the airplane terminals. I couldn’t understand the words from the speakers. I was in so much pain, but I wouldn’t miss it.
+
 ## Psychiatry at the University of Rochester's Strong Hospital
 
 A few months after losing my hair, I was hospitalized, for reasons independent to eczema or the hair loss. *I came in for eczema.* I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized, yet. In 2018, they found me in the woods. I wasn't trying to harm myself. I was there because of delusions—well, beliefs that were delusions, but which, either through my psychology's improvisation, some higher planning, or projection, ended up having longer-term narrative cohesion later. The snapshot of what happened begins in the chapter ["Crisis."](#crisis)
@@ -166,14 +174,6 @@ Almost nearing Fall, 2019, I tried to kill myself. The helium tank connected to 
 A deeper summary of my benzo trauma can be found [here](5-Opposing-Views.md). <!--[here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).-->
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
-
-## Scottland
-
-When Jordan Peterson recovered, he went to Russia—wait, the other way around. He went to Russia, where he got unorthodox treatment, and they brought him into good shape, or at least less-torment shape, through some unorthodox treatment, he and his daughter report. For months to maybe a year from withdrawal, he was largely unable to stand up. His family had to take care of him.
-
-I was in so much torture in the last months of taking benzos, and even more during withdrawal.
-
-In the first week of finishing my tapering, the Finland woman invited me to Scottland, and I traveled by airplane—internationally—myself. I was unable to read the airplane terminals. I couldn’t understand the words from the speakers. I was in so much pain, but I wouldn’t miss it.
 
 ## Dyeda
 
