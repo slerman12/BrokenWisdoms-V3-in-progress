@@ -131,7 +131,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 
 ### War
 
-When the Nazis came to Ukraine, they did not arrive as strangers. Long before their boots touched the soil, anti-Semitism had already taken root among many of the populace of Ukraine. The Jews of Ukraine—Ashkenazi Jews, like my family—went from persecuted to tortured, including forced displacement, and mass killings, with many victims executed and buried in mass graves. My Dyeda ("grandpa"), Yury, only 13 at the time, fled with his mother, Maná, and younger sister, Rosá, escaping eastward to the relative safety of Kazakhstan, as many other Jews evacuated similarly.
+When the Nazis came to Ukraine, they did not arrive as strangers. Long before their boots touched the soil, anti-Semitism had already taken root among many of the populace of Ukraine. The Jews of Ukraine—Ashkenazi Jews, like my family—went from persecuted to tortured, including forced displacement, and mass killings, with many victims executed and buried in mass graves. My dyeda ("grandpa"), Yury, only 13 at the time, fled with his mother, Maná, and younger sister, Rosá, escaping eastward to the relative safety of Kazakhstan, as many other Jews evacuated similarly.
 
 Years later, when the war ended, they came back to Chernihiv. Yakob, Yury’s father, had been drafted to fight for Ukraine. He survived the war, and they were reunited—husband with wife, father with children. For years they had been apart.
 
