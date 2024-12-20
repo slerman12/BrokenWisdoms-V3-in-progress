@@ -25,7 +25,7 @@ I inherited my mom's hair, who inherited my grandma's hair.
 
 <!--My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier.-->
 
-In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, my eczema temporarily spiked and I lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
+In addition to losing all of my hair—head, eyebrows, and eyelashes—due to the Dupilumab cessation—my eczema temporarily spiked and I lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
 
 `Additional side effects included temporarily worsened eczema, and fingernails turning purple and bending like putty.`
 
