@@ -129,3 +129,5 @@ It’s more like ego in relation to id(s) and superego(s), both less intelligent
 Jung’s view/cosmology is gone from my perception for the most part. I even have a notion of a superconscious to account for what I identify as a stupid subconscious 
 
 The deeper iceberg and ocean now a lesser orchestra composed of vilifying ids
+
+> This isn't really my spirituality in December, 2024—but it's the often unavoidable perception created in my psyche
