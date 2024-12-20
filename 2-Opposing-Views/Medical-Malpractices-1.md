@@ -97,9 +97,13 @@ Some time into taking the medication—I think maybe 8 months—my university-pr
 
 `Aetna cut me off from Dupilumab, prescribed to me by the University of Rochester, about 8 months into my dependency without warning.`
 
+`The deliverer didn't deliver it.`
+
 `The deliverer couldn't reach my doctor.`
 
 I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
+
+`I couldn't reach my doctor.`
 
 Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the summer (when her office had scheduled it: August 14), a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation<!-- of Dupilumab-->. She and her nurse took pictures and stored them in the university-hospital computers. 
 
