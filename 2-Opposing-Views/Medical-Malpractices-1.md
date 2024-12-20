@@ -31,7 +31,7 @@ She hesitated, but Shafkad reassured her. "No, no. They’re good people. They h
 
 And so, reluctantly, she stayed behind. I went.
 
-After about twenty minutes, they brought me back. The man who had taken me returned with the healer. He was a short, middle-aged man—maybe in his 40s or 50s—who looked Uzbek or perhaps Tajik.
+After about twenty minutes, they brought me back. The man who had taken me returned with the healer. He was a short, middle-aged man—maybe in his 40s, 50s—who looked Uzbek, maybe Tajik.
 
 The healer looked at my mom and said, "Sorry. I couldn’t. I don’t know how to. I couldn’t help your son. I don’t know how to fix it." That was it. He didn’t accept payment. "I couldn’t heal him. I can’t."
 
