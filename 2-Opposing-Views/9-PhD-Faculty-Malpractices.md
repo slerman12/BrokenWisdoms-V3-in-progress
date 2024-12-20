@@ -126,7 +126,7 @@ This was my severance pay to them.
 
 I have no safety net for the most part, short of going into a job immediately after 6 years of torture, or turning to my middle class distant relatives, uncle, sister, or I suppose, a historically unprecedented number of independent medical malpractices and workers abuse injuries and the legal system. 
 
-But that battle would be sort of horrifying and embarassing, and sort of sullying the historical physics and AI work I’ve done making me dependent on an undignified route of partial reimbusement that doesn’t appreciate how much work I did, my ideas, and all of what was robbed from me. 
+But that battle would be sort of horrifying and embarassing, and sort of sullying the historical physics and AI work I’ve done making me dependent on a route of partial reimbusement that isn't commensurate to what I deserve, my ideas, my skill, my work, how much work I did, all of my 20s robbed from me. 
 
 Instead, I’m writing this book and living under the support of my mom’s social security, in my childhood apartment, the same one my mom, grandparents, sister, and I used to all live in, that I had all my life since we immigrated, and my own savings, still hard work, probably wasted, on good faith.<!-- which I thankfully scrounged up a little, while my bosses are being funded by the fruit of hard work that I did for them on *good faith*-->
 
