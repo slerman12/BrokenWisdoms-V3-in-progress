@@ -112,7 +112,7 @@ Though it fell out quickly, I didn't notice at first. The shower drains were fil
 
 `The cessation initially caused Alopecia Areata.`
 
-Eventually, she somehow sorted out things with the university-provided health insurance, by herself, without asking for or needing my further involvement, but by then it was too late. Most of my hair had fallen out.
+Eventually, she somehow sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
 
 `The drug was delivered after I lost my hair.`
 
