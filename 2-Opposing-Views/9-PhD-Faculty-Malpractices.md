@@ -13,7 +13,7 @@
 - **University PhD committee members**
 - **University CS department Chair**
 
-## Dyada Slava
+## Dyada Sláva
 
 My uncle ("dyada") came over, quickly. I interviewed him a bit about his physics method. A company here in America hired him, because he was the only one who knew how to do something, something specific to lens-manufacturing. He was/is an optics physicist. One part of what he did, besides dunking a lens into some liquid to create a gradient, or something like that, was, before he retired in... I think 2022... identifying a certain part of the lens or stage in the process manually.
 
