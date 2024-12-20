@@ -55,7 +55,7 @@ The way it works, is one tosses the Feng Shui coins, writes down the resulting l
 
 ## Scottland
 
-When Jordan Peterson recovered, he went to Russia—wait, the other way around. He went to Russia, where he got unorthodox treatment, and they brought him into good shape, or at least less-torment shape, through some unorthodox treatment, he and his daughter report. For months to maybe a year from withdrawal, he was largely unable to stand up, and he took much of a less dose than me, even at my lowest prescription. His family had to take care of him.
+When Jordan Peterson recovered, he went to Russia—wait, the other way around. He went to Russia, where he got unorthodox treatment, and they brought him into good shape, or at least less-torment shape, through some unorthodox treatment, he and his daughter report. For months to maybe a year from withdrawal, he was largely unable to stand up, and he took much of a less dose than me, even at my lowest University of Rochester prescription. His family had to take care of him.
 
 I was in so much torture in the last months of taking benzos, and even more during withdrawal.
 
