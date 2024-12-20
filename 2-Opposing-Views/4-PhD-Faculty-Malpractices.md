@@ -361,8 +361,24 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 >
 > In addition to disinhibiting drugs, the hospital environment is oppressive. It can be lonely. And the janitor perhaps helped her. The hospital's responsibility isn't to fire the janitor who she got into a relationship with, nor to increase the oppressiveness of the care units, but to provide care units that sufficiently socialize and help a patient, without overexposing them to drugs that increase impulsiveness, disinhibition, and <!--so on-->addiction. 
 
+### Hudson
+
+Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
+
+<p align="center">
+<img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
+</p>
+
+It's great<!--I'm impressed--> he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. He went through electroshock therapy during my stay there.
+
+Meanwhile, I was being brain damaged by benzos, but who could've known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
+
+I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
+
+### Kids
+
 > [!NOTE]
-> ### Kids
+> ### Mobi
 >
 > My instincts still haven't ceased, and I still interpret them as Tao, except with more experience, and the "threats" have evolved into helpful or sabotaging suggestions, what others with frontal lobes might just observe in themselves, less acutely perhaps than somebody mid-psychotic-trance, as "social energies, social sense, social skill, maybe emotional intelligence, or emotion," and frontal lobes should, as a general rule of thumb, be handled delicately when just growing in, by the way, as they tend to in a person's early 20s, when by totally-random-amazing-coincidence, schizophrenic episodes are most likely to occur in a person whose relationships with those energies of their intelligence might not be as integrated as with other impressive energies of their intelligence, and that integration can be initially exactly as intense as it's supposed to be minus the external orders that make it quite paranoid and scary — did I just explain schizophrenia in one sentence? Anyway, that truth about not intervening while parts are still growing in, is quintuply true about people under 20.
 >
@@ -388,19 +404,7 @@ Not that my lucidity needed further evidence, but I explained the methods of lat
 >
 > Anyway, *Mobi was given benzos for years.*
 
-### Hudson
-
-Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
-
-<p align="center">
-<img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
-</p>
-
-It's great<!--I'm impressed--> he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. He went through electroshock therapy during my stay there.
-
-Meanwhile, I was being brain damaged by benzos, but who could've known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
-
-I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
+### Corporal Abuse
 
 > [!NOTE]
 > ### Jeremiah
