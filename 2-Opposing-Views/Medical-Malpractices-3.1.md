@@ -31,7 +31,7 @@ In addition to losing all of my hair—head, eyebrows, and eyelashes—due to th
 
 My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the community pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual.
 
-Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
+Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all of the symptoms of early-onset dementia.
 
 ### The Probable Cause of My Grandma's Dementia
 
