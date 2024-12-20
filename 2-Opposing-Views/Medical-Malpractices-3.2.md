@@ -1,3 +1,5 @@
+> To do: Make a diagram specifically for geriatric unit hospitalization (University of Rochester's Strong Hospital).
+
 # Part 3.2
 
 - **University-hospital ambulance**
@@ -5,8 +7,6 @@
 - **University-hospital nurses**
 - **University-hospital geriatric unit**
 - **University-hospital nutritionists**
-
-> To do: Make a diagram specifically for geriatric unit hospitalization (University of Rochester's Strong Hospital).
 
 ## Geriatric Unit Hospitalization
 
