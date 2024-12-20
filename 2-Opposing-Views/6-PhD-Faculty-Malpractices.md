@@ -97,6 +97,7 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ## Stuck in Traffic
 
+The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what preceded, or should've been my emails to them, Michael, and the faculty, including the medical malpractices on me, and all of what follows. They didn't reply to my emails or address me directly. I did my best to explain *everything*.
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
@@ -107,9 +108,6 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 <br>From: University of Rochester, <a href="https://www.rochester.edu/college/deans/">Meet the Deans</a>.
 </a>
 </p>
-
-The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what preceded, or should've been my emails to them, Michael, and the faculty, including the medical malpractices on me, and all of what follows. They didn't reply to my emails or address me directly. I did my best to explain *everything*.
-
 <!--
 The bigger red light, is that Dean Wendi Heinzelman should've been filled in on all of what happened. I sent an [email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) about all of the medical malpractices that I asked to be shared, and [CC'd her](3-Disproof.md#email-10302023) on almost all of my emails after the subsequent events. She didn't respond. She ignored. Those emails are lying in her inbox. Dean Nick Vamivakas received [even more](3-Disproof.md#10302023---10312023-and-7-years-ago---now) emails than her, and did not address me either. Upwards of 13 independent medical malpractices, and starting from the next chapter, workers abuse injuries, all of which did not seem sufficiently believable to them in the state of agitated panic I sent them in, "flying colors" perhaps deemed deficient.
 -->
