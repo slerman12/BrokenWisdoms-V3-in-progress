@@ -375,7 +375,7 @@ Meanwhile, I was being brain damaged by benzos, but who could've known that? (I 
 
 I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
 
-### Kids
+### Drugging Kids
 
 > [!NOTE]
 > ### Mobi
