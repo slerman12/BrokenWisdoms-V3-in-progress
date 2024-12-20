@@ -4,7 +4,7 @@
 - **University-hospital child and adolescent psychiatrists**
 - **University-hospital police officers**
 
-## I Ching
+## I Ching, and Losing Faith in Me
 
 We finally got a delivery of the drug. I wasn't sure whether it'd be safer at that point to re-instigate the dependency/addiction or avoid the drug at all costs.
 
