@@ -1,7 +1,7 @@
 # Part 6
 
 - **University PhD advisor**
-<!--- **University Deans**-->
+- **University Deans**
 <!--- **Wendi Heinzelman and Nick Vamivakas**-->
 
 ## Red Light at Clover St. 
@@ -95,9 +95,9 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 >
 > 17 days after I was and the day before my birthday, Sam Altman was terminated as the head of OpenAI, the company credited for ChatGPT, the thing that used MHDPA, the method that I was the 5th "group" in the world to ever use, before every iPhone, foundation model, and AI research group in the world now does, and first in the world/history to ever innovate on, except as a single PhD student. And those other 4 "groups" were all DeepMind, whereas I was in an environment where everybody was oblivious to the value. My name is Sam Lerman. Sam Altman, the CEO of OpenAI, was terminated 17 days after I was, one day before my birthday, for working on an AGI research area that is pretty specifically close to my specialized research area (though shortly rehired after). The reason my paper wasn’t published as I found out from email record, is apparently Henry discouraged me from submitting my paper to the full conference in 2018, truncated my paper down to 3 pages, and got me to submit to a small workshop in April, 2019, at which point I was benzo brain damaged and extremely insecure about every perception and belief I had. I used his version exactly, even though mine’s really better, by far; it got rejected — not even for good reasons, but because the reviewers thought I was proposing MHDPA itself, not having heard of it previously, yes the method that underpins ChatGPT, and rejected MHDPA on account of it being, uh, too similar to different attention mechanisms from before MHDPA — yes, in other words, my paper was rejected because the reviewers thought I invented MHDPA — and after/concurrent with that I was literally brain damaged and then had to switch into Computer Vision under an extremely oppressive deadline from Chenliang, and by the time I could’ve done anything voluntarily, MHDPA ("transformers") were already commonplace, popularized, standardized, and actively revolutionizing the field<!--, haha-->. So, I had quite a flagpole that only email record now documents. I would laugh, but it's pretty tragic. Coincidentally — sorry, one more synchronicity — CMT, the company owned by the same company that owns the company Sam Altman is in charge of, OpenAI, Microsoft — deleted all record of conference submissions a week before my termination! They sent out a mass email. So, that workshop paper Henry got me to submit in April after having "discouraged" (his email documented words) me from submitting to the full conference in 2018 the previous year, had all traces deleted in October, 2023, a week before I was terminated, as reported to everybody by mass email. And the only record left that any of what I’m writing is true is in Henry and another professor’s email inbox, meaning — maybe — a lot of faith is needed in me to make anything about me systemically credible. The end. BUT, on top of that, I really appreciated Henry, so I win the emotional debate too — like disproportionately appreciated him as he discouraged me from the work I did, left as an advisor, and has since ignored all of my emails.
 
-<!--## Stuck in Traffic-->
+## Stuck in Traffic
 
-<!--
+
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
 <picture>
@@ -108,8 +108,8 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 </a>
 </p>
 
-The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what preceded, including the medical malpractices (on me), and all of what follows, at least to the extent that I can >know. They didn't respond to my emails. I did my best to explain *everything* that preceded and follows, the preceding and following events happening at least in their inbox or asked to be forwarded to them. Nick Vamivakas 
--->
+The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what preceded, or should've been my emails to them, Michael, and the faculty, including the medical malpractices on me, and all of what follows. They didn't reply to my emails or address me directly. I did my best to explain *everything*.
+
 <!--
 The bigger red light, is that Dean Wendi Heinzelman should've been filled in on all of what happened. I sent an [email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) about all of the medical malpractices that I asked to be shared, and [CC'd her](3-Disproof.md#email-10302023) on almost all of my emails after the subsequent events. She didn't respond. She ignored. Those emails are lying in her inbox. Dean Nick Vamivakas received [even more](3-Disproof.md#10302023---10312023-and-7-years-ago---now) emails than her, and did not address me either. Upwards of 13 independent medical malpractices, and starting from the next chapter, workers abuse injuries, all of which did not seem sufficiently believable to them in the state of agitated panic I sent them in, "flying colors" perhaps deemed deficient.
 -->
