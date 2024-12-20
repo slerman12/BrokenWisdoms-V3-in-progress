@@ -41,7 +41,7 @@ Benzos [contribute to the likelihood of dementia in elderly people](https://www.
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the brochure goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the same year my grandpa died, 2016.
 
-She was always smiling, all through her dementia, kind, even in her last days.
+She was always smiling, all through her dementia, kind, loving and trusting people, even in her last days.
 
 <!--
 That semester I was dating somebody who told me something about my nails. My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual, but something I'm proud of.
