@@ -51,7 +51,7 @@ In the 2017 summer, before I started the eczema medication Dupilumab, my mom and
 
 In high school, I had always talked of Finland in my arguing points with the Republicans of my school, referring to it for its social safety net programs and specifically that it's ranked highest in the world's happiness index. That was a point I made a lot, a go-to point in my political debates, since happiness is a good measure of a country's wellbeing.
 
-In summer, 2017, after graduation, my mom and I went to Finland. I had no idea I'd ever have the opportunity. I had no idea we knew relatives there. 
+In the summer 2017, after graduation, my mom and I went to Finland. I had no idea I'd ever have the opportunity. I had no idea we knew relatives there. 
 
 My electric razor—from my grandpa—had broke in the luggage. There, I had to borrow somebody else's.
 
