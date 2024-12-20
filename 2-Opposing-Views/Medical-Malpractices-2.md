@@ -185,7 +185,7 @@ Years later, when the war ended, they came back to Chernihiv. Yakob, my grandpa'
 
 ### A New Name
 
-At 16, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that helped him be safer. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman," an old Ashkenazi Jewish surname with German origins.
+At 16, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that helped him be safer. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman," an old Ashkenazi Jewish surname with German origins meaning "teacher."
 
 ### Asya and Yury
 
