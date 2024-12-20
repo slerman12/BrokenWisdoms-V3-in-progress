@@ -7,7 +7,7 @@
 ### $\Huge &#8220;$
 *Moscow was bombed every day, sometimes multiple times a day. 500 airplanes bombed the city in one day. Not only bombs, but also a lot of lighters were thrown from the airplanes. The alarm of the air raid required everyone to step down to the underground [bomb shelters], and I went there too. But if the air raid came at the time of our work shift, we, all working at the armory [defense factory], children*<!-- [children working at the defense factory]-->*, climbed on the roof. Our responsibility was to take the hot lighters and throw them off the roof, to prevent a fire.*
 ### $\Huge &#8221;$
-&ensp;&ensp; - Translated to English by my mom from an interview with my grandma that my mom did for an essay for Monroe Community College, in October, 2000. Brackets denote my edits.
+&ensp;&ensp; - Translated to English by my mom from an interview with my grandma that my mom did for an essay for a class at Monroe Community College, in October, 2000. Brackets denote my edits.
 
 My grandma was 13 and my great aunt Tsilia was 18. Their dad was fighting in the war front. Their mother had died when my grandma was 5 and her sister was 10, from typhus. Their step mother was sick with tuberculosis; and their little younger step-brother Yura, 10 years younger than my grandma, was too young to help with throwing the fire bombs.
 
