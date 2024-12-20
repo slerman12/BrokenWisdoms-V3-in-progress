@@ -122,6 +122,8 @@ My loans stopped being subsidized because I was terminated, and I had to pay $22
 
 The subsidization was due to my family being poor, under 15k income poor. 
 
+This was my severance pay to them.
+
 I have no safety net for the most part, short of going into a job immediately after 6 years of torture, or turning to my middle class distant relatives, uncle, sister, or I suppose, a historically unprecedented number of independent medical malpractices and workers abuse injuries and the legal system. 
 
 But that would be sort of sullying the historical physics and AI work I’ve done making me dependent on an undignified route of partial reimbusement that doesn’t appreciate how much work I did, my ideas, and all of what was robbed from me. 
