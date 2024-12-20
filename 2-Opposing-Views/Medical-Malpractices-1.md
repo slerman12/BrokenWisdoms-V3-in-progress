@@ -105,7 +105,7 @@ I remember walking up and down Mt. Hope Avenue with my phone in a panic calling 
 
 `I couldn't reach my doctor.`
 
-Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the summer (when her office had scheduled it: August 14), a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation<!-- of Dupilumab-->. She and her nurse took pictures and stored them in the university-hospital computers. 
+Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the summer (the soonest her office had scheduled it: August 14), a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation<!-- of Dupilumab-->. She and her nurse took pictures and stored them in the university-hospital computers. 
 
 `I wasn't given the appointment with my doctor until months after.`
 <!--`I wasn't given an appointment with my doctor until at least a month, maybe two months or more, after the missed injection.`-->
