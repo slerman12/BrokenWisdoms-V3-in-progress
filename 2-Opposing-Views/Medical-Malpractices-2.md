@@ -189,7 +189,7 @@ At 16, my grandpa formalized his name on the official record. He was born "Izya,
 
 ### Asya and Yury
 
-After the war, my grandfather went to college in Kiev. My grandmother, Asya—a Rabinovich—was in the same city, attending a different college. They had known each other as children. She was a year older. They crossed paths again, and this time, they got married. She took his surname, "Lerman."
+After the war, my grandfather went to college in Kiev. My grandmother, Asya—a Rabinovich (meaning "son of Rabbi," though her father was a cobbler)—was in the same city, attending a different college. They had known each other as children. She was a year older. They crossed paths again, and this time, they got married. She took his surname, "Lerman."
 
 Not long after, the Soviet Union sent my grandfather to work as a leather technology engineer at a sheepskin factory in Samarkand, Uzbekistan. So, in 1952, my grandparents left behind Kiev, Chernihiv, Zhytomyr—all the places that were tied to their lives in Ukraine. They moved to Samarkand. My grandmother, too, made a new life there, teaching German.
 
