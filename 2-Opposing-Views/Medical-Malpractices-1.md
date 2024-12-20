@@ -39,7 +39,7 @@ Before we left, the healer spoke again. "Are you going to America? Maybe they ca
 
 My mom didn’t know how he knew about our plans to immigrate, if Shafkad had told him or how.
 
-And so we left. I didn’t leave healed, but the shaman was genuine in reinforcing hope for us regarding the unknown abilities of the doctors in America. The shaman may have also spoken of demons, attempting to rid me of them—perhaps successfully—though he could do nothing for the eczema.
+And so we left. I didn’t leave healed, but the shaman was genuine in reinforcing hope for my mom regarding the unknown abilities of the doctors in America. The shaman may have also spoken of demons, attempting to rid me of them—perhaps successfully—though he could do nothing for the eczema.
 
 My mom recounted these memories [in an interview recently](link to interview). 
 
