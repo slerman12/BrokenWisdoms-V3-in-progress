@@ -81,3 +81,5 @@ While I was working and researching under Charles, I had come up with, programme
 I hope Charles and his colleagues may find the earlier diagram (["5 Computational Neurons"](2-Opposing-Views.md#benzodiazepine-benzos-mechanism-of-action)) valuable in their work, ideally attributing credit. It elucidates original mechanisms of neurodegeneration biologically, computationally, and in psychiatric practice. 
 
 Charles was very supportive as my advisor. He was left-handed. My grandpa was also left-handed. On the website, though, Charles was red-handed.
+
+He once advised me about, "standing on the shoulders of giants" as being the basis on which people stand their research. Therefore, I put him on the shoulders of my family.
