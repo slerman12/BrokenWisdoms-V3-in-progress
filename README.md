@@ -1,1 +1,33 @@
 # Table of Contents
+
+- [**Sam**](./)
+  - Cover Page
+  - Prologue
+    - Dialogue of the Congress 1
+  - Table of Contents
+
+- [**Opposing Views**](/2-Opposing-Views)
+    - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
+      - Severe Eczema Since a Month and a Half, Infancy
+      - Foreboding Electric Razor
+      - Premonition or Omen
+      - House on May St.
+      - University of Rochester Induced Hair Loss 
+    - Part 2 (University-hospital psychiatrists (two), University outpatient doctor) 
+      - Jordan Peterson
+        - I Ching and Synchronicity Hypothesized Mechanisms
+      - Scottland
+      - Psychiatry at the University of Rochester's Strong Hospital
+      - Benzodiazepine ("Benzos") Mechanism of Action
+      - Trauma
+      - Dyeda
+        - War
+        - A New Name
+        - Asya and Yury
+        - Samarkand
+        - Ancestral Innocence
+    - Part 3 (University Med Center)
+      - PhD Program
+        - Embassy Interview
+        - Immigration
+      - Charles Venuto
