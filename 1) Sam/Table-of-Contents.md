@@ -1,12 +1,12 @@
 # Table of Contents
 
-- [**Sam**](1-Sam.md)
+- [**Sam**](/)
   - Cover Page
   - Prologue
     - Dialogue of the Congress 1
   - Table of Contents
 
-- [**Opposing Views**](2-Opposing-Views.md)
+- [**Opposing Views**](2-Opposing-Views/)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
       - Severe Eczema Since a Month and a Half, Infancy
       - Foreboding Electric Razor
