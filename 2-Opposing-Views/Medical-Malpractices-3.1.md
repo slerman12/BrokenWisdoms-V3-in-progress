@@ -87,7 +87,7 @@ My grandma, Asya Lerman (Hebrew/American: "Esya") always cooked, healthy and rea
 I remember, for herself, she had to use artificial sweeteners because she couldn't eat pure sugar.
 She also made these delicious Russian cookies for us called "Korshike," that I loved, that she also put into these different mold shapes, hearts and stars and fish and circles. I liked to eat the raw dough sometimes, but she didn't let me eat it in large quantities because of eggs and the risk of salmonella.
 
-I had healthier food than the average American as a kid — plov, cabbage stews, potato stews, salads, katleti, tefteli, borscht, pelmeni — despite my family's poverty, but I still had eczema, allergies, and asthma through my whole childhood.
+I had healthier food than the average American as a kid—plov, cabbage stews, potato stews, salads, katleti, tefteli, borscht, pelmeni—despite my family's poverty, but I still had eczema, allergies, and asthma through my whole childhood.
 
 My grandma taught my mom dancing when they were younger, in Uzbekistan. Seeing my grandpa bedridden in the hospital, even before the surgery, it was obvious to me that he was losing strength, just from the sedentary confinement to bed, that the doctors put him in, in a corner of a concrete-surrounded hospital, with no natural light, nature, or fresh air. He would've benefited from some motion, out of bed and walking, outdoors, with nature, with fresh air. At least once a day, each day, without any grueling transits to reach such an environment.
 
