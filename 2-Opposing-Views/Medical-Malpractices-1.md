@@ -49,7 +49,7 @@ My grandpa gave me his electric razor when I was in high school. It was the firs
 
 In the 2017 summer, before I started the eczema medication Dupilumab, my mom and I celebrated my graduation from college ("uni," in European-speak) by going to Europe, and my razor broke in the luggage.
 
-In high school, I had always talked of Finland in my arguing points with the Republicans of my school, referring to it for its social safety net programs and specifically that it's ranked highest in the world's happiness index. That was a point I made a lot, a go-to point in my political debates, since happiness is a better measure of a country's wellbeing than any metric, I argued.
+In high school, I had always talked of Finland in my arguing points with the Republicans of my school, referring to it for its social safety net programs and specifically that it's ranked highest in the world's happiness index. That was a point I made a lot, a go-to point in my political debates, since happiness is a good measure of a country's wellbeing.
 
 In summer, 2017, after graduation, my mom and I went to Finland. I had no idea I'd ever have the opportunity. I had no idea we knew relatives there. 
 
