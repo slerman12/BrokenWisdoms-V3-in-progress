@@ -15,7 +15,9 @@
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
-A few months after losing my hair, I was hospitalized, for reasons independent to eczema or the hair loss. *I came in for eczema.* I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized, yet. I'm $5\text{'}5\text{'' } 110\text{lb}$. 
+A few months after losing my hair, I was hospitalized, for reasons independent to eczema or the hair loss. *I came in for eczema.* I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized, yet. In 2018, they found me in teh woods. I was there because of delusions—well, beliefs that were delusions, but which, either through my psychology's improvisation, some higher planning, or projection, ended up having longer-term narrative cohesion later. The snapshot of what happened begins in the chapter ["Crisis."](#crisis)
+
+I'm $5\text{'}5\text{'' } 110\text{lb}$. 
 
 I had a prescription for benzos before, Xanax, but for eczema and social anxiety, $\text{1/4}$ to $\text{1/2}$ of a milligram to be taken daily or as needed. I took them sometimes during my junior and senior years of college at the University of Rochester, as needed, usually for social anxiety, usually spaced out by more than two weeks, during the time when I took them at all, and they gave me small hangovers/dazes when the effect wore off. Knowing they were in a similar class of drugs to alcohol (see [below](#benzodiazepine-benzos-mechanism-of-action)), I took them conservatively.
 
