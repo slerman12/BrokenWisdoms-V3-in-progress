@@ -127,7 +127,7 @@ This medical malpractice—should be plural—revolves around three psychiatrist
 >
 > `Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.`
 >
-> `But she reassured, I'll be weaned off from the benzos,` *right after* `discharge from the hospital by the outpatient psychiatrist.`
+> `But she reassured, I'll be weaned off  by the outpatient psychiatrist from the benzos,` *right after* `discharge from the hospital.`
 
 **PSYCHIATRIST 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
 
