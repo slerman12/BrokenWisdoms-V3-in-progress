@@ -115,7 +115,7 @@ My grandma's numerical timing of when she died is a proof symbol in my opinion o
 
 ### Massages
 
-I had severe eczema, and my grandma, mom, and grandpa when I was a kid helped by giving the best massages. My grandma's were the best of the best of theirs.
+I had severe eczema, and my grandma, mom, and grandpa when I was a kid helped by giving the best massages. My grandma's were the best of the best of them.
 
 <!--
 I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. Psyche may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (see ["Intimacy healing"](#intimacy-healing)).
