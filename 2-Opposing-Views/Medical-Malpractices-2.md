@@ -119,7 +119,7 @@ This medical malpractice—should be plural—revolves around three psychiatrist
 
 **PSYCHIATRIST 1:** "I will taper you off from the benzos. You will be tapered off *before* discharge."
 
-> `Psychiatrist 1 reassured, I'll be weaned off from the benzos,` *before* `discharge from the hospital.`
+> `Psychiatrist 1 reassured, I'll be weaned off from the benzos,` *before* `discharge from the hospital by the outpatient psychiatrist.`
 
 **PSYCHIATRIST 2:** "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
 
