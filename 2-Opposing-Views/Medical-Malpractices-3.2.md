@@ -6,6 +6,8 @@
 - **University-hospital geriatric unit**
 - **University-hospital nutritionists**
 
+> To do: Make a diagram specifically for geriatric unit hospitalization (University of Rochester's Strong Hospital).
+
 ## Geriatric Unit Hospitalization
 
 Speaking of the elderly...
@@ -82,9 +84,9 @@ Nor Hollywood, even. At the end of [A Beautiful Mind](https://en.wikipedia.org/w
 
 ["Nash described sanity as a form of conformity, and one about which he maintained a degree of ambivalence. 'So, at the present time, I seem to be thinking rationally in the style that is characteristic of scientists,' he wrote. 'However, this is not entirely a matter of joy, as if someone returned from physical disability to good physical health. One aspect of this is that rationality of thought imposes a limit on a person's concept of his relation to the cosmos.' There can be no doubt that to talk in such terms requires both honesty and tremendous courage. The question is whether we have the courage to hear him."](https://www.theguardian.com/society/2015/jun/02/dont-use-john-nash-schizophrenia-a-beautiful-mind-promote-anti-psychotics)
 
-> To do: Make a diagram specifically for geriatric unit hospitalization (University of Rochester's Strong Hospital).
->
-> Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed eczema-causing food, more coerced benzos, and interrogative military clinicians -> geriatric unit -> them arguing carbs were a necessary part of a healthy diet and stating that the reason for holding me in that hospitalization was that I wasn't eating enough (even as I ate all of their garbage food).
+### Chronology
+
+Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed eczema-causing food, more coerced benzos, and interrogative military clinicians -> geriatric unit -> them arguing carbs were a necessary part of a healthy diet and stating that the reason for holding me in that hospitalization was that I wasn't eating enough (even as I ate all of their garbage food).
 
 ## Second Induced Hair Loss
 
