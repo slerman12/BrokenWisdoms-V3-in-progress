@@ -37,7 +37,7 @@ In college, I did psychedelics a couple of times and that was what largely opene
 
 In the House on May St., two understandings/experiences intensified that made me believe in God literally—actual God, not in the metaphorical or philosophical sense I meant with the God Woman in 2017.
 
-1. I was having deep, transcendental experience, no anxiety, profoundly so, my eyes shining, in the House on May St., after beginning and practicing daily—twice a day each day—Transcendetal Meditation, which I learned from an instructor who learned himself from Maharishi Mahesh Yogi, as was common in the first generations of instructors, along with other disciplines, as described in ["House on May St."](2-Opposing-Views/1-Medical-Malpractices.md#house-on-may-st) Those experiences, more so than psychedelics, gave me a sense of telepathy and synchronicities. I was observing really implausibly bizarre important things in my communications with others and in the timing of co-occurrences of events. But, as a rational skeptic, that by itself can be still psychological, or some deeper consciousness iceberg and ocean, that isn’t God, but just the areas of psyche that I’d been exploring more since college (including, then, with the for-me-less-effective Vipassana meditation). Telepathy and synchronicities, though, cannot be explained that way—only as psychological projection, without some mechanism of communication (non-local, not faciliated by local interactions if across distances) for telepathy and convergence/planning/fatalism of the universe’s synchronizations.
+1. I was having deep, transcendental experience, no anxiety, profoundly so, my eyes shining, in the House on May St., after beginning and practicing daily—twice a day each day—Transcendetal Meditation, which I learned from an instructor who learned himself from Maharishi Mahesh Yogi, as was common in the first generations of instructors, along with other disciplines, as described in ["House on May St."](1-Medical-Malpractices-1.md#house-on-may-st) Those experiences, more so than psychedelics, gave me a sense of telepathy and synchronicities. I was observing really implausibly bizarre important things in my communications with others and in the timing of co-occurrences of events. But, as a rational skeptic, that by itself can be still psychological, or some deeper consciousness iceberg and ocean, that isn’t God, but just the areas of psyche that I’d been exploring more since college (including, then, with the for-me-less-effective Vipassana meditation). Telepathy and synchronicities, though, cannot be explained that way—only as psychological projection, without some mechanism of communication (non-local, not faciliated by local interactions if across distances) for telepathy and convergence/planning/fatalism of the universe’s synchronizations.
 2. I realized through my thinking about how to develop my artificial intelligence long-term memory model, the manner in which the universe could support a literal God, and also—though I wasn’t experiencing them in such extreme as to especially notice them—explain occasional telepathy and synchronicity as more than just coincidence. Specifically, through a limited statistical divergence in the sampling of the universe’s quantum particles. The details I hadn't yet fleshed out, just the notion of the universe's probabilistic quantum nature affording a limitted divergence for modulations by a latent intelligence.
 
 The I Ching, which I got thanks to Terrence McKenna's appreciation, seemed like an interesting testing ground. Throughout the House on May St., it gave helpful answers. But in my apartment, hair gone, moved home, its interventions on fate were more ominous, yet still uncannily precise in answering my casted questions relevantly.
@@ -63,7 +63,7 @@ In the first week of finishing my tapering, the Finland woman invited me to Scot
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
-A few months after losing my hair, I was hospitalized, for reasons independent to eczema or the hair loss. *I came in for eczema.* I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized, yet. In 2018, they found me in the woods. I wasn't trying to harm myself. I was there because of delusions—well, beliefs that were delusions, but which, either through my psychology's improvisation, some higher planning, or projection, ended up having longer-term narrative cohesion later. The snapshot of what happened begins in the chapter ["Crisis."](#crisis)
+A few months after losing my hair, I was hospitalized, for reasons independent to eczema or the hair loss. *I came in for eczema.* I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized, yet. In 2018, they found me in the woods. I wasn't trying to harm myself. I was there because of delusions—well, beliefs that were delusions, but which, either through my psychology's improvisation, some higher planning, or projection, ended up having longer-term narrative cohesion later. The snapshot of what happened begins in the chapter ["Crisis."](3-PhD-Faculty-Malpractices-1#crisis)
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$. 
 
@@ -79,7 +79,7 @@ For the first three or so weeks, I was really, really drunk/high. Then the fog r
 
 [This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-)
 
-I was also on antipsychotics, but these next chapters will not be about antipsychotics (see ["Geriatric unit hospitalization"](#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
+I was also on antipsychotics, but these next chapters will not be about antipsychotics (see ["Geriatric unit hospitalization"](6-Medical-Malpractices-3.2.md#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
 
 ## Benzodiazepine ("Benzos") Mechanism of Action
 
@@ -171,7 +171,7 @@ Symptoms from taking the benzos as prescribed included:
 
 Almost nearing Fall, 2019, I tried to kill myself. **The helium tank connected to tubing and bag, found by my mom.** My family hid it from me.
 
-A deeper summary of my benzo trauma can be found [here](PhD-Faculty-Malpractices-2.md). <!--[here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).-->
+A deeper summary of my benzo trauma can be found [here](4-PhD-Faculty-Malpractices-2.md). <!--[here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).-->
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
@@ -201,7 +201,7 @@ In that city, my uncle Slava was born first, then my mother, Nélya. Later, my u
 
 My mother was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mother wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandmother’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
 
-"Sam of Samarkand" (nor "Marina of Maracanda") wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, due to the [formal mistakes and truncations](PhD-Faculty-Malpractices-1.md#immigration) of others, during immigration, Kindargarten, and until I turned 16, ultimately becoming "Sam of Samarkand" in America independent of any of my family.
+"Sam of Samarkand" (nor "Marina of Maracanda") wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, due to the [formal mistakes and truncations](3-PhD-Faculty-Malpractices-1.md#immigration) of others, during immigration, Kindargarten, and until I turned 16, ultimately becoming "Sam of Samarkand" in America independent of any of my family.
 
 ### Ancestral Innocence
 
