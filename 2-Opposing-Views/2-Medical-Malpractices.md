@@ -33,7 +33,7 @@ And some many months after, while still living in the House on May St., I found�
 
 That girl told me she was God, early on when we met. She said she had the "I am God" revelation on truffles (Euro-speak for magic mushrooms, slightly different) and asked if I did too. Trying to impress her, I sort of said yes, because I technically understood the concept, in like a "We are all God, the universe is God" sense. But in high school, I hadn’t just debated Republicans, I also debated my religious friends, and was a really argumentative atheist—but good at it, and before the "New Atheist" movement actually. My inspirations weren’t so much "Sam Harris" as "The Amazing Atheist" (middle school, I think) and "DarkMatter2525," and maybe Bill Maher/Richard Dawkins just <!--in--> on the line. 
 
-In college, I did psychedelics a couple of times and that was what largely opened my mind to the idea of an actual transcendent force (sort of, short of childhood "lucid thinking," that I coined, and one particular week in high school).
+In college, I did psychedelics a couple of times and that was what largely opened my mind to the idea of an actual transcendent force (sort of, short of childhood "lucid thinking," that I coined at the age of 7, and one particular week in high school).
 
 In the House on May St., two understandings/experiences intensified that made me believe in God literally—actual God, not in the metaphorical or philosophical sense I meant with the God Woman in 2017.
 
