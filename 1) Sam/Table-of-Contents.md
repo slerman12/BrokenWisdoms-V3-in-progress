@@ -1,2 +1,1 @@
-
-# $\mathfrak{Chapters}$
+# Table of Contents
