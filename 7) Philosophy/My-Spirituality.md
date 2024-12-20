@@ -44,7 +44,7 @@ When this holistic, primal state of consciousness is achieved, the experience is
 
 Beyond that, I take inspiration from eastern religion, transcendentalism, shamanism, Rousseau, Nietzsche, Marx, Jung, and Campbell.
 
-> I may have embellished some of these inspirations, besides Joseph Campbell and Jung, and sort of Marx, to make this seem more credible (though shamanism more generally, like not in academic expertise sense, was definitely, and what I've heard of the others, transcendentalism and Rousseau, and of course eastern religion, and Nietzsche was added in because some I liekd liked him, and I haven't read much but appreciate his linguistic style)—the thing is, I came to these views on my own, and discovered these writers or movements already after. So less so "inspired by" and more so "maybe relate to, and want to ground my writing in established literature/beliefs"
+> I may have embellished some of these inspirations, besides Joseph Campbell and Jung, and sort of Marx, to make this seem more credible (though shamanism more generally, like not in academic expertise sense, was definitely, and what I've heard of the others, transcendentalism and Rousseau, and of course eastern religion, and Nietzsche was added in because some I met liked him, and I haven't read much but appreciate his linguistic style)—the thing is, I came to these views on my own, and discovered these writers or movements already after. So less so "inspired by" and more so "maybe relate to, and want to ground my writing in established literature/beliefs"
 
 # December, 2024
 
