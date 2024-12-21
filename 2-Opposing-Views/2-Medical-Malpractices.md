@@ -84,10 +84,10 @@ I was also on antipsychotics, but these next chapters will not be about antipsyc
 ## Benzodiazepine ("Benzos") Mechanism of Action
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+<a href="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Mechanism-of-Action.png">
 <picture>
-  <source width="90%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-  <img width="90%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+  <source width="90%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Mechanism-of-Action.png">
+  <img width="90%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Mechanism-of-Action.png">
 </picture></a><br><i></i>
 </p>
 
