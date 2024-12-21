@@ -63,7 +63,7 @@ In the first week of finishing my tapering, the Finland woman invited me to Scot
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
-A few months after losing my hair, I was hospitalized, for reasons independent to eczema or the hair loss. *I came in for eczema.* I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized, yet. In 2018, they found me in the woods. I wasn't trying to harm myself. I was there because of delusions—well, beliefs that were delusions, but which, either through my psychology's improvisation, some higher planning, or projection, ended up having longer-term narrative cohesion later. The snapshot of what happened begins in the chapter ["Crisis."](4-PhD-Faculty-Malpractices-2#crisis)
+A few months after losing my hair, I was hospitalized, for reasons independent to eczema or the hair loss. *I came in for eczema.* I came into the medical system for eczema. I came into the University of Rochester's medical system that summer 2017. I came in for eczema. I was never hospitalized, yet. In 2018, they found me in the woods. I wasn't trying to harm myself. I was there because of delusions—well, beliefs that were delusions, but which, either through my psychology's improvisation, some higher planning, or projection, ended up having longer-term narrative cohesion later. The snapshot of what happened begins in the chapter ["Crisis."](4.1-Medical-Malpractices.md#crisis)
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$. 
 
@@ -79,7 +79,7 @@ For the first three or so weeks, I was really, really drunk/high. Then the fog r
 
 [This link opens to a video with a different medical philosophy. It's worth clicking on, no matter one's skepticisms.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-)
 
-I was also on antipsychotics, but these next chapters will not be about antipsychotics (see ["Geriatric unit hospitalization"](6-Medical-Malpractices.md#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
+I was also on antipsychotics, but these next chapters will not be about antipsychotics (see ["Geriatric unit hospitalization"](6.2-Medical-Malpractices.md#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
 
 ## Benzodiazepine ("Benzos") Mechanism of Action
 
