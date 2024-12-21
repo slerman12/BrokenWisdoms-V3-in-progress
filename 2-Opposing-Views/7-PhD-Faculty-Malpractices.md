@@ -1,7 +1,6 @@
 # Part 7
 
 - **University PhD advisor**
-- **University Deans**
 
 ## Chenliang Xu 
 
