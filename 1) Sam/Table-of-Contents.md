@@ -31,3 +31,14 @@
         - Embassy Interview
         - Immigration
       - Charles Venuto
+    - Part 4 (University psychiatric ward janitor, University-hospital child and adolescent psychiatrists, University-hospital police officers)
+      - Henry Kautz <!--(Limitations of Western philosophy)-->
+        - I Ching, and Losing Faith in Me
+        - Fall, 2018 Semester, and the Dead Marshes
+      - C<!--Psychosis c-->risis
+          - Tao as the Optimization of a Differentiable Universe
+          - Wind
+          - Rochester General Hospital (RGH)
+            - Christmas Eve/Day, 2018
+            - Catatonia, or Yogic Guidances
+          - Discharge from RGH
