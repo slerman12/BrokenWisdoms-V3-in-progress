@@ -3,10 +3,10 @@
 <!--Include "Contents:" over each file-->
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+<a href="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Interuptions-Malpractices.png">
 <picture>
-  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Interuptions-Malpractices.png">
+  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Interuptions-Malpractices.png">
 </picture>
 </a>
 </p>
