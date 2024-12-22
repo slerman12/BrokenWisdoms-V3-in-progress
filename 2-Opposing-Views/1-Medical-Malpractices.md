@@ -15,7 +15,6 @@
 
 - **University-provided health insurance (Aetna)**
 - **University-hospital doctor**
-- **University-owned drug deliverer**
 
 ## Severe Eczema Since a Month and a Half, Infancy
 
