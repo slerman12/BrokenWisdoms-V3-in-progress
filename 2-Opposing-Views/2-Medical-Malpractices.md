@@ -53,7 +53,7 @@ The way it works, is one tosses the Feng Shui coins, writes down the resulting l
 >
 > Of course, a person's psychology cannot be dismissed as independent to the interpretations, either, even when the answers are uncannily precise. However, what's suggested in this physics mechanism is that some planning mechanism can subtly bias physical behavior in the universe, either outward or inward, by a small, limited divergence. Perhaps, beyond yarrow stalks and Feng Shui coins, other kinds of convergences can be gradually eroded into being, by such a latent planning factor, making possible the seemingly acausal phenomenon known as "synchronicity." Since planning is objective-based, that would make synchronicities a "teleological connecting principle" rather than Carl Jung's traditional definition for the term, "acausal connecting principle."
 
-## Scottland
+## Scotland
 
 When Jordan Peterson recovered, he went to Russia—wait, the other way around. He went to Russia, where he got unorthodox treatment, and they brought him into good shape, or at least less-torment shape, through some unorthodox treatment, he and his daughter report. For months to maybe a year from withdrawal, he was largely unable to stand up, and he took much of a less dose than me, [even at the psychiatrists' lowest prescription](../4-Holy-Faith/7-Synchronicities.md#jordan-peterson). His family had to take care of him.
 
