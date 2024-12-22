@@ -16,7 +16,7 @@
     - Part 2 (University-hospital psychiatrists (two), University outpatient doctor) 
       - Jordan Peterson
         - I Ching and Synchronicity Hypothesized Mechanisms
-      - Scottland
+      - Scotland
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine ("Benzos") Mechanism of Action
       - Trauma
