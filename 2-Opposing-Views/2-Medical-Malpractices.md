@@ -59,7 +59,7 @@ When Jordan Peterson recovered, he went to Russia—wait, the other way around. 
 
 I was in so much torture in the last months of taking benzos, and even more during withdrawal.
 
-In the first week of finishing my tapering, the Finland woman invited me to Scottland, and I traveled by airplane—internationally—myself. I was unable to read the airplane terminals. I couldn’t understand the words from the speakers. I was in so much pain, but I wouldn’t miss it, *this time now bald and brain damaged*.
+In the first week of finishing my tapering, the Finland woman invited me to Scotland, and I traveled by airplane—internationally—myself. I was unable to read the airplane terminals. I couldn’t understand the words from the speakers. I was in so much pain, but I wouldn’t miss it, *this time now bald and brain damaged*.
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
