@@ -447,7 +447,7 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ## Stuck in Traffic
 
-To ignore a PhD student sending emails to his faculty and colleagues en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the **October 12 notice of termination** and 21 days after the [October 7](https://en.m.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel) attack when I was terminated 10/31/23, on a day symbolizing terror, Halloween, and an organization symbolizing terror inflicting it, Hamas, respectively, the former symbolism enacted by the University of Rochester, one month shorter than Chenliang wrote by email he could support me, with the numerical timing presumably unintended.
+To ignore a PhD student sending emails to his faculty and colleagues en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the **October 12 notice of termination** and 21 days after the [October 7](https://en.m.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel) attack when I was terminated 10/31/23, on a day symbolizing terror, Halloween, and an organization symbolizing terror inflicting it, Hamas, respectively, the former symbolism enacted by the University of Rochester, one month shorter than Chenliang emailed he could support me, with the numerical timing presumably unintended.
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
@@ -459,9 +459,9 @@ To ignore a PhD student sending emails to his faculty and colleagues en masse su
 </a>
 </p>
 
-Henry also ignored my emails, having been retired since 2022 in his mid-60s. I learned through Chenliang, around the time of a six-month review that Henry would've had to attend. Henry and I didn't have a bad relationship. He didn't notify me. To neglect to notify a former PhD student, that you advised, whose PhD committee you were still on, about your retirement, with no reason not to, is "like worrying about traffic on Mars," to quote Henry, when he described what it's like to worry about the dangers of AI.
-
 To quote Bernie Sanders, who is against the offensive, "Israel has every right to defend themselves." 
+
+Henry also ignored my emails, having been retired since 2022 in his mid-60s. I learned through Chenliang, around the time of a six-month review that Henry would've had to attend. Henry and I didn't have a bad relationship. He didn't notify me. To neglect to notify a former PhD student, that you advised, whose PhD committee you were still on, about your retirement, with no reason not to, is "like worrying about traffic on Mars," to quote Henry, when he described what it's like to worry about the dangers of AI.
 
 <!--My emails remained stuck in a red light.-->
 
