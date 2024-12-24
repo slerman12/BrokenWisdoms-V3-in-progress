@@ -460,7 +460,9 @@ To ignore a PhD student sending emails en masse summarizing medical trauma and w
 </p>
 
 > [!NOTE]
-> The bigger red light, is that Deans Wendi Heinzelman and Nick Vamivakas, were filled in on all of what reasonably can be summarized, or should've been my emails to them, the CS department Chair Michael Scott, and the faculty sent, including the medical malpractices and what follows (in less-than-book form). They didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md). Formally, it was their responsibility most. 
+> ### Bigger Red Light than Clover St.
+> 
+> Deans Wendi Heinzelman and Nick Vamivakas, were filled in on all of what reasonably can be summarized, or should've been my emails to them, the CS department Chair Michael Scott, and the faculty sent, including the medical malpractices and what follows (in less-than-book form). They didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md). Formally, their responsibility outweighed Henry's, who was retired. Nick's only email to me was about "grief drop-in groups," possibly sent en-masse.
 <!--
 The bigger red light, is that Dean Wendi Heinzelman should've been filled in on all of what happened. I sent an [email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) about all of the medical malpractices that I asked to be shared, and [CC'd her](3-Disproof.md#email-10302023) on almost all of my emails after the subsequent events. She didn't respond. She ignored. Those emails are lying in her inbox. Dean Nick Vamivakas received [even more](3-Disproof.md#10302023---10312023-and-7-years-ago---now) emails than her, and did not address me either. Upwards of 13 independent medical malpractices, and starting from the next chapter, workers abuse injuries, all of which did not seem sufficiently believable to them in the state of agitated panic I sent them in, "flying colors" perhaps deemed deficient.
 -->
