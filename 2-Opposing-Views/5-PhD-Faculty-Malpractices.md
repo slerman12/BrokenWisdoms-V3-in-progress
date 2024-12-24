@@ -447,6 +447,8 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ## Stuck in Traffic
 
+### Red Light
+
 To ignore a PhD student sending emails to his faculty and colleagues en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the **October 12 notice of termination** and 21 days after the [October 7](https://en.m.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel) attack when I was terminated 10/31/23, on a day symbolizing terror, Halloween, and an organization symbolizing terror inflicting it, Hamas, respectively, the former symbolism enacted by the University of Rochester, one month shorter than Chenliang emailed he could support me, with the numerical timing presumably unintended.
 
 <p align="center">
@@ -460,6 +462,8 @@ To ignore a PhD student sending emails to his faculty and colleagues en masse su
 </p>
 
 Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody.
+
+### Dangers of AI
 
 Henry once told me over dinner that if I keep posting about politics on Facebook, that he might have to unfollow me. That's fair. I kept posting about Bernie Sanders, who his other students didn't support. This was just before Covid was escalating beyond when Henry would reasonably doubt its proportion. Henry predicted Covid was like other recent flus, going up and then falling down. Another of his students had a graph on his phone of other flus. Henry wasn't worried. I wasn't either. Much of what I was posting was very left-wing, about workers rights and so on. If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against the offensive, "Israel has every right to defend themselves." 
 
