@@ -489,3 +489,5 @@ Move this to Early Work
 -->
 
 <!--But it's not just a question of how much progress I made in 2018, but how much progress I would've made if not for the induced debilitation in the middle of it, that lasted more than a year, and which wasn't interupted until after Henry left, and I was already forced onto new work, to meet Chenliang's additional demands.-->
+
+Henry once said, "Worrying about AI is like worrying about traffic on Mars." What about worrying about your own PhD student?
