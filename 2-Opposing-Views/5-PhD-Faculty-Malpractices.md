@@ -357,10 +357,10 @@ I would've lost the opportunity permanently for a PhD if I took a medical leave.
 ## Red Light at Clover St. 
 
 <p align="center">
-<a href="https://github.com/user-attachments/assets/89b39b2b-14d4-4a85-a0ae-3e9a3b11eeda">
+<a href="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Light/Henry.png">
  <picture>
-   <source width="77%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2c833150-a64d-40ce-827e-4d3b8d9413a3">
-   <img width="77%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/89b39b2b-14d4-4a85-a0ae-3e9a3b11eeda">
+   <source width="77%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Dark/Henry.png">
+   <img width="77%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Light/Henry.png">
 </picture>
 </a>
 </p>
@@ -452,8 +452,8 @@ The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled i
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
 <picture>
-  <source width="30%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f8c02d65-819a-43ad-afc9-a4ecb908fe37">
-  <img width="30%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f8c02d65-819a-43ad-afc9-a4ecb908fe37">
+  <source width="30%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Deans.png">
+  <img width="30%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Deans.png">
 </picture></a>
 <br>From: University of Rochester, <a href="https://www.rochester.edu/college/deans/">Meet the Deans</a>.
 </a>
