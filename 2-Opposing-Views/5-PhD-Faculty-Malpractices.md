@@ -447,7 +447,7 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ## Stuck in Traffic
 
-The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what reasonably can be summarized, or should've been my emails to them, Michael, and the faculty sent, including the medical malpractices (in less-than-book form) and what follows. They didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md). Formally, it was their responsibility most. To ignore a PhD student sending emails en masse summarizing medical trauma inflicted by the university and workers injuries is an extreme administration malpractice.
+The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what reasonably can be summarized, or should've been my emails to them, Michael, and the faculty sent, including the medical malpractices (in less-than-book form) and what follows. They didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md). Formally, it was their responsibility most. To ignore a PhD student sending emails en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice.
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
