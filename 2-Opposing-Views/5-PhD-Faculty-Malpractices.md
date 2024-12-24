@@ -459,7 +459,7 @@ To ignore a PhD student sending emails to his faculty and colleagues en masse su
 </a>
 </p>
 
-Henry also ignored my emails, having been retired since 2022 in his earlier 60s. I learned through Chenliang, around the time of a six-month review that Henry would've had to attend. Henry and I didn't have a bad relationship. He didn't notify me. To neglect to notify a former PhD studnet of yours, whose PhD committee you were still on, about your retirement, with no reason not to, is "like worrying about traffic on Mars," to quote Henry, when he described what it's like to worry about the dangers of AI.
+Henry also ignored my emails, having been retired since 2022 in his earlier 60s. I learned through Chenliang, around the time of a six-month review that Henry would've had to attend. Henry and I didn't have a bad relationship. He didn't notify me. To neglect to notify a former PhD student, that you advised, whose PhD committee you were still on, about your retirement, with no reason not to, is "like worrying about traffic on Mars," to quote Henry, when he described what it's like to worry about the dangers of AI.
 
 <!--My emails remained stuck in a red light.-->
 
