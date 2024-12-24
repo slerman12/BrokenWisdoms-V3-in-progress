@@ -459,7 +459,7 @@ To ignore a PhD student sending emails to his faculty and colleagues en masse su
 </a>
 </p>
 
-Henry also ignored my emails, having been retired. He retired in 2022, without notifying me. I learned through Chenliang. Owing to his retirement, I missed a six-month review around the time Chenliang notified me, and was excused, my previous advisor, then committee member, the only person who had overseen my deep learning work for the full duration of my PhD, out of the picture.
+Henry also ignored my emails, having been retired. I learned through Chenliang, around the time of a six-month review that Henry would've had to attend. Henry and I didn't have a bad relationship. He didn't notify me. 
 
 <!--My emails remained stuck in a red light.-->
 
