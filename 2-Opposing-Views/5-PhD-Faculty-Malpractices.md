@@ -447,7 +447,7 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ## Stuck in Traffic
 
-To ignore a PhD student sending emails to his faculty and colleagues en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Scott, for a possible meeting, I accepted requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the 10/12/23 notice of termination (on Halloween), about the Israel-Gaza situation that had started that month (before that most recent 10/25/23 ignored email), offering support to Jews. 
+To ignore a PhD student sending emails to his faculty and colleagues en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the October 12 notice of termination (on Halloween) when I was terminated 10/31/23.
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
