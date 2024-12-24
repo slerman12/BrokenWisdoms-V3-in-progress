@@ -492,4 +492,4 @@ Move this to Early Work
 
 Henry once said, "Worrying about AI is like worrying about traffic on Mars." What about worrying about your own PhD student? 
 
-In fact, he said it on a WXXI interview that I can't find.
+<!--In fact, he said it on a WXXI interview that I can't find.-->
