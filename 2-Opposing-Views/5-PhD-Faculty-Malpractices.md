@@ -447,7 +447,7 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ## Stuck in Traffic
 
-The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md).
+The bigger red light, is that Wendi Heinzelman and Nick Vamivakas, were filled in on all of what reasonably can be summarized, or should've been my emails to them, Michael, and the faculty sent, including the medical malpractices on me, and all of what follows (in less-than-book form). They didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md).
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
