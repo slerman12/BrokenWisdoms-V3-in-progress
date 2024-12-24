@@ -459,7 +459,7 @@ To ignore a PhD student sending emails to his faculty and colleagues en masse su
 </a>
 </p>
 
-Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups."
+Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody.
 
 Henry once told me over dinner that if I keep posting about politics on Facebook, that he might have to unfollow me. That's fair. I kept posting about Bernie Sanders, who his other students didn't support. This was just before Covid was escalating beyond when Henry would reasonably doubt its proportion. Henry predicted Covid was like other recent flus, going up and then falling down. Anotehr of his tudents had a graph on his phone of other flus. Henry wan't worried. I wasn't either. Much of what I was posting was very left-wing, about workers rights and so on. If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against the offensive, "Israel has every right to defend themselves." 
 
