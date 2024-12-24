@@ -460,7 +460,7 @@ To ignore a PhD student sending emails en masse summarizing medical trauma and w
 </p>
 
 > [!NOTE]
-> ### Bigger Red Light than Clover St.
+> ### Red Light after Clover St.
 > 
 > Deans Wendi Heinzelman and Nick Vamivakas, were filled in on all of what reasonably can be summarized, or should've been my emails to them, the CS department Chair Michael Scott, and the faculty sent, including the medical malpractices and what follows (in less-than-book form). They didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md). Formally, their responsibility outweighed Henry's, who was retired. Nick's only email to me on 10/31/23 was about "grief drop-in groups," possibly sent en-masse.
 <!--
