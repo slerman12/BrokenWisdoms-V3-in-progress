@@ -63,10 +63,10 @@ Before accepting me into his doctoral candidacy, Henry connected me to Charles V
 ## Charles Venuto
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Charles.png">
+<a href="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Light/Charles.png">
  <picture>
-   <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Charles.png">
-   <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Charles.png">
+   <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Light/Charles.png">
+   <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Light/Charles.png">
 </picture>
 </a>
 </p>
