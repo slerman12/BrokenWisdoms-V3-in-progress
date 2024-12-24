@@ -447,7 +447,7 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ## Stuck in Traffic
 
-The bigger red light, is that Deans Wendi Heinzelman and Nick Vamivakas, were filled in on all of what reasonably can be summarized, or should've been my emails to them, the CS department Chair Michael Scott, and the faculty sent, including the medical malpractices (in less-than-book form) and what follows. They didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md). Formally, it was their responsibility most. 
+To ignore a PhD student sending emails en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Scott, for a possible meeting, I accepted requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was on the day of my termination about the Israel-Gaza situation that had started that month (before that most recent ignored email), offering support to Jews on account of [October 7](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel). I'm not sure if I'm supposed to be the victim of Hamas, or who, in that metaphor, but let the defensive continue.
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
@@ -459,8 +459,8 @@ The bigger red light, is that Deans Wendi Heinzelman and Nick Vamivakas, were fi
 </a>
 </p>
 
-To ignore a PhD student sending emails en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Scott, for a possible meeting, I accepted requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was on the day of my termination about the Israel-Gaza situation that had started that month (before that most recent ignored email), offering support to Jews on account of [October 7](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel). I'm not sure if I'm supposed to be the victim of Hamas, or who, in that metaphor, but let the defensive continue.
-
+> [!NOTE]
+> The bigger red light, is that Deans Wendi Heinzelman and Nick Vamivakas, were filled in on all of what reasonably can be summarized, or should've been my emails to them, the CS department Chair Michael Scott, and the faculty sent, including the medical malpractices (in less-than-book form) and what follows. They didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md). Formally, it was their responsibility most. 
 <!--
 The bigger red light, is that Dean Wendi Heinzelman should've been filled in on all of what happened. I sent an [email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) about all of the medical malpractices that I asked to be shared, and [CC'd her](3-Disproof.md#email-10302023) on almost all of my emails after the subsequent events. She didn't respond. She ignored. Those emails are lying in her inbox. Dean Nick Vamivakas received [even more](3-Disproof.md#10302023---10312023-and-7-years-ago---now) emails than her, and did not address me either. Upwards of 13 independent medical malpractices, and starting from the next chapter, workers abuse injuries, all of which did not seem sufficiently believable to them in the state of agitated panic I sent them in, "flying colors" perhaps deemed deficient.
 -->
