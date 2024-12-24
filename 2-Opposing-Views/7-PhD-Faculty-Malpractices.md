@@ -5,10 +5,10 @@
 ## Chenliang Xu 
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cf7098eb-dc3a-4220-bb65-9c7aaded7036">
+<a href="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Light/Chenliang.png">
  <picture>
-   <source width="75%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaed8423-9fbb-4533-9d59-8500b620fed8">
-   <img width="75%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cf7098eb-dc3a-4220-bb65-9c7aaded7036">
+   <source width="75%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Dark/Chenliang.png">
+   <img width="75%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Light/Chenliang.png">
 </picture>
 </a>
 </p>
