@@ -496,6 +496,8 @@ The bigger red light, is that Dean Wendi Heinzelman should've been filled in on 
 <!--
 Move this to Early Work
 
+THE SPARSE ATTENTION LIKE DESCRIPTION WAS AT THAT SAME LUNCH/DINNER
+
 > [!NOTE]
 > ### Incremental 2018
 >
