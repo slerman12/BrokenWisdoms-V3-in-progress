@@ -447,6 +447,8 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ## Stuck in Traffic
 
+> To do: This chapter is too scary, and the "Halloween" infantilization doesn't make it less scary
+
 ### Red Light
 
 To ignore a PhD student sending emails to his faculty and colleagues en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the [October 12](8.3-PhD-Faculty-Malpractices.md) notice of termination and 21 days after the [October 7](https://en.m.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel) attack when I was terminated 10/31/23, on a day symbolizing terror, Halloween, and an organization symbolizing terror inflicting it, Hamas, respectively, the former symbolism enacted by the University of Rochester, <!--one month shorter than Chenliang emailed he could support me,--> with the numerical timing presumably unintended, and the terror inflicted by the University of Rochester described comprehensively in the earlier chapters of this part.
