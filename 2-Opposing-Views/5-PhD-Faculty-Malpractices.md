@@ -469,7 +469,7 @@ To ignore a PhD student sending emails to his faculty and colleagues en masse su
 </a>
 </p>
 
-Nick's only email to me happened to be about Israel-Gaza regarding [October 7](https://en.m.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel), for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody.
+Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody.
 
 <!--
 ### Terror
