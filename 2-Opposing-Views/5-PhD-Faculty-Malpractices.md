@@ -471,7 +471,7 @@ To ignore a PhD student sending emails to Dean Wendi Heinzelman, Dean Nick Vamiv
 
 Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this."
 
-Is it legal to terminate an employee [without warning?](8.3-PhD-Faculty-Malpractices.md)
+<!--Is it legal to terminate an employee [without warning?](8.3-PhD-Faculty-Malpractices.md)-->
 
 <!--
 Move this to Early Work
