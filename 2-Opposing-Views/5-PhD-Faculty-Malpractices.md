@@ -457,7 +457,7 @@ Henry once told me over lunch or dinner that if I keep posting about politics on
 
 ### At Home
 
-To ignore a PhD student sending emails to his faculty and colleagues en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the [October 12](8.3-PhD-Faculty-Malpractices.md) notice of termination—I was at home when this terror arrived [without warning](8.3-PhD-Faculty-Malpractices.md)<!--, in what I described as the ["Termination Slam"](8.3-PhD-Faculty-Malpractices.md)--> on October 12—<!--and 24 days after the [October 7](https://en.m.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel) attack -->when I was terminated 10/31/23, on a day symbolizing terror, Halloween, and <!--an organization symbolizing terror inflicting it, Hamas, respectively, the former symbolism -->enacted by the University of Rochester<!--, one month shorter than Chenliang emailed he could support me--><!--, with the numerical timing presumably unintended-->, and the terror inflicted by the University of Rochester described [comprehensively in the earlier chapters of this part](https://github.com/slerman12/BrokenWisdoms-V3-in-progress/blob/main/2-Opposing-Views/5-PhD-Faculty-Malpractices.md#brain-damage).
+To ignore a PhD student sending emails to his faculty and colleagues en masse summarizing medical trauma and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored entirely. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the [October 12](8.3-PhD-Faculty-Malpractices.md) notice of termination—I was at home when this terror arrived [without warning](8.3-PhD-Faculty-Malpractices.md) on October 12—when I was terminated 10/31/23, on a day symbolizing terror, Halloween, and enacted by the University of Rochester, and the terror inflicted by the University of Rochester described [comprehensively in the earlier chapters of this part](#part-5).
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
@@ -470,34 +470,6 @@ To ignore a PhD student sending emails to his faculty and colleagues en masse su
 </p>
 
 Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody.
-
-<!--
-### Terror
-
-If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against the offensive, "Israel has a right to defend itself against Hamas." 
-
-Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote. 
-
-All of this work describes crimes committed to me or synchronicities that are of public concern, and, mostly, by public people with publications. First amendment, free speech, truth, public personas, religion, defensive, #MeToo precedent [even with respect to the University of Rochester](https://thejaegercase.com).
-
-Sam **has** a right to defend himself against Heinzelman and Vamivakas.
--->
-<!--My emails remained stuck in a red light.-->
-
-<!--
-> [!NOTE]
-> ### Red Light after Clover St.
-> 
-> Deans Wendi Heinzelman and Nick Vamivakas, were filled in on all of what reasonably can be summarized, or should've been my emails to them, the CS department Chair Michael Scott, and the faculty sent, including the medical malpractices and what follows. They didn't reply to my emails or address me directly. [I did my best to explain everything](../3-Formal-Disproof/2-They-Didn't-Know.md). Formally, their responsibility outweighed Henry's, since he retired in 2022. Henry didn't email or notify me about that. I learned through Chenliang around the time of a deadline that would've involved Henry. Henry didn't reply to these emails either. Nick's only email to me was on 10/31/23 about "More grief drop-in groups" for [Israel and Gaza](https://en.m.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel). Michael terminated me on October 12.
--->
-
-
-<!--
-The bigger red light, is that Dean Wendi Heinzelman should've been filled in on all of what happened. I sent an [email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) about all of the medical malpractices that I asked to be shared, and [CC'd her](3-Disproof.md#email-10302023) on almost all of my emails after the subsequent events. She didn't respond. She ignored. Those emails are lying in her inbox. Dean Nick Vamivakas received [even more](3-Disproof.md#10302023---10312023-and-7-years-ago---now) emails than her, and did not address me either. Upwards of 13 independent medical malpractices, and starting from the next chapter, workers abuse injuries, all of which did not seem sufficiently believable to them in the state of agitated panic I sent them in, "flying colors" perhaps deemed deficient.
--->
-<!--preceded, including the medical malpractices (on me), and all of what follows, at least to the extent that I can >know. They didn't respond to my emails. I did my best to explain *everything* that preceded and follows, the preceding and following events happening at least in their inbox or asked to be forwarded to them.-->
-<!--who had not retired, -->
-<!--, if not directly under their watch,-->
 
 
 <!--
