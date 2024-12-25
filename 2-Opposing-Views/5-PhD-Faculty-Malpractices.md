@@ -473,9 +473,11 @@ Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-i
 
 If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against the offensive, "Israel has a right to defend itself against Hamas." 
 
-Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote. In other words: Sam **has** a right to defend himself against Heinzelman and Vamivakas.
+Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote. 
 
 All of this work describes crimes committed to me or synchronicities that are of public concern, and, mostly, by public people with publications. First amendment, free speech, truth, public personas, religion, defensive, #MeToo precedent [even with respect to the University of Rochester](https://thejaegercase.com).
+
+Sam **has** a right to defend himself against Heinzelman and Vamivakas.
 
 <!--My emails remained stuck in a red light.-->
 
