@@ -469,7 +469,7 @@ To ignore a PhD student sending emails to Dean Wendi Heinzelman, Dean Nick Vamiv
 </a>
 </p>
 
-Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody.
+Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody, and even to that, I replied, with a "Thank you."
 
 
 <!--
