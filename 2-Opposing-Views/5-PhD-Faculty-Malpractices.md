@@ -463,8 +463,6 @@ To ignore a PhD student sending emails to Dean Wendi Heinzelman, Dean Nick Vamiv
 </a>
 </p>
 
-[October 12](8.3-PhD-Faculty-Malpractices.md) was 5 days after the October 7 attack on Israel by Hamas. I wasn't a militant. I was at home with my mom.
-
 Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this," while every other of my emails was ignored by him and Dean Heinzelman.
 
 If I'm supposed to be Israel in this metaphor (intended by Nick or not), then to quote Bernie Sanders, who is against the offensive, "Israel has a right to defend itself against Hamas." 
