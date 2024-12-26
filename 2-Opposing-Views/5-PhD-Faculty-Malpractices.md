@@ -475,6 +475,8 @@ If I'm supposed to be Israel in this metaphor (intended by Nick or not), then to
 
 Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote. 
 
+The symbolized terror however, by this university, that I believe God or Nick's superconscious intended to symbolize with the Halloween date of Nick's email, following the October 12 email that I was terminated, and the October 7 attack on Israel, is [described comprehensively in the earlier chapters of this part.](https://github.com/slerman12/BrokenWisdoms-V3-in-progress/edit/main/2-Opposing-Views/5-PhD-Faculty-Malpractices.md#part-5)
+
 <!--All of this work describes crimes committed to me or synchronicities that are of public concern, and, mostly, by public people with publications. First amendment, free speech, truth, public personas, religion, defensive, #MeToo precedent [even with respect to the University of Rochester](https://thejaegercase.com).-->
 
 <!--
