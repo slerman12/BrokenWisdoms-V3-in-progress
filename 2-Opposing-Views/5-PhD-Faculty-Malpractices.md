@@ -449,6 +449,8 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ### At Home
 
+I have never met Nick Vamivakas in my life.
+
 To ignore a PhD student sending emails to Dean Wendi Heinzelman, Dean Nick Vamivakas, and his faculty summarizing medical trauma, termination, and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the [October 12](8.3-PhD-Faculty-Malpractices.md) notice of termination—I was at home with my mom when these arrived<!-- [without warning](8.3-PhD-Faculty-Malpractices.md), October 12, that I will be terminated on 10/31/23-->—on 10/31/23, a day symbolizing terror, Halloween, the day the termination was executed<!--, the terror already inflicted by the University of Rochester described [comprehensively in the earlier chapters of this part](#part-5)-->.
 
 <p align="center">
