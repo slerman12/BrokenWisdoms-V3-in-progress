@@ -453,7 +453,7 @@ I have never met Nick Vamivakas in my life.
 
 [October 12](8.3-PhD-Faculty-Malpractices.md) came my notice of termination from CS Chair Michael Scott—I was at home with my mom. On 10/31/23, a day symbolizing terror, Halloween, the termination was executed.
 
-To ignore a PhD student sending emails to Dean Wendi Heinzelman, Dean Nick Vamivakas, and his faculty summarizing medical trauma, termination, and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me was 19 days after the 
+To ignore a PhD student sending emails to Dean Wendi Heinzelman, Dean Nick Vamivakas, and his faculty summarizing medical trauma, termination, and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
