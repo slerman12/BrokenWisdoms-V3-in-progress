@@ -471,7 +471,7 @@ That might suggest another synchronicity, that their termination of me was like 
 
 If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against the offensive, "Israel has a right to defend itself against Hamas." 
 
-Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote, but as long as it's known *I'm not Hamas*, a necessary ([in-context](#mhdpa-summary)) disambiguation for future synchronicity interpretation, as per my mom or a lawyer's.
+Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote, but as long as it's known *I'm not Hamas*, a necessary <!--([in-context](#mhdpa-summary))--> disambiguation for future synchronicity interpretation, as per my mom or a lawyer's.
 
 ### On Mars
 
