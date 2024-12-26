@@ -475,7 +475,7 @@ If I'm supposed to be Israel in this metaphor (intended by Nick or not), then to
 
 Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote. 
 
-All of this work describes crimes committed to me or synchronicities that are of public concern, and, mostly, by public people with publications. First amendment, free speech, truth, public personas, religion, defensive, #MeToo precedent [even with respect to the University of Rochester](https://thejaegercase.com).
+<!--All of this work describes crimes committed to me or synchronicities that are of public concern, and, mostly, by public people with publications. First amendment, free speech, truth, public personas, religion, defensive, #MeToo precedent [even with respect to the University of Rochester](https://thejaegercase.com).-->
 
 <!--
 Move this to Early Work
