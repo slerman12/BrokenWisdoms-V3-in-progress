@@ -496,7 +496,7 @@ Henry also ignored my emails, having been retired since 2022 in his mid-60s, wit
 
 The systems of the University of Rochester [have shown to be an artificially intelligent](#part-5) intelligence, inflicting terror, on student or patient. What about a universal superintelligence, a biological one, a Sampler in the cosmos, in Mother Nature?
 
-It's not wise to laugh ("Ha!") *at* one's own mother, nor one's Mother Nature. Each our [two "Mas,"](https://en.wikipedia.org/wiki/Hagar) it is a terror to laugh at.
+It's not wise to laugh ("Ha!") *at* one's own mother, nor one's Mother Nature. Each our [two "Mas,"](https://en.wikipedia.org/wiki/Hagar) it is a terror to laugh at. (Though until the link to Sarah and Hagar, whose progeny of Abram/Abraham were the Jews of Issac and the Muslims of Ishmael, this was meant to lighten the tone).
 
 ### On Earth
 
