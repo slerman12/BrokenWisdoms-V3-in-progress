@@ -455,7 +455,7 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 <!--I have never met Nick Vamivakas in my life.-->
 
-For Dean Wendi Heinzelman, Dean Nick Vamivakas, and other faculty to ignore a PhD student sending emails to their inboxes summarizing medical trauma, termination, and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
+For Dean Wendi Heinzelman, Dean Nick Vamivakas, and other faculty to ignore a PhD student sending emails to their inboxes describing medical trauma, termination, and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
 
 I was terminated on [October 12](8.3-PhD-Faculty-Malpractices.md), and it felt like a terror strike. 
 
