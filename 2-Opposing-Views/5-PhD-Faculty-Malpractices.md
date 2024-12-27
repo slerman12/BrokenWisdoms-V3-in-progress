@@ -496,6 +496,8 @@ Henry also ignored my emails, having been retired since 2022 in his mid-60s, wit
 
 The systems of the University of Rochester [have shown to be an artificially intelligent](#part-5) intelligence, inflicting terror, on student or patient. What about a universal superintelligence, a biological one, a Sampler in the cosmos, in Mother Nature?
 
+It's not wise to laugh ("Ha!") *at* one's own mother, nor one's Mother Nature. Each our two "Mas," it is a terror to laugh at.
+
 ### On Earth
 
 > Can divide into two sub-chapters
