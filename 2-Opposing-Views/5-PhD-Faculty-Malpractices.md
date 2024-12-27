@@ -481,7 +481,7 @@ That might suggest another synchronicity, that their termination of me was like 
 
 If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against<!--doesn't like--> the offensive, "Israel has a right to defend itself against Hamas." 
 
-Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote, but as long as it's known *I'm not Hamas*<!-- (the opposite: "Sam" goes "Ah!" in terror)-->, a necessary <!--([in-context](#mhdpa-summary))--> disambiguation for future synchronicity interpretation, as per my mom or a lawyer's.
+Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote<!--, but as long as it's known *I'm not Hamas*--><!-- (the opposite: "Sam" goes "Ah!" in terror)--><!--, a necessary --><!--([in-context](#mhdpa-summary))--><!-- disambiguation for future synchronicity interpretation, as per my mom or a lawyer's-->.
 
 <!--Those who laugh at Sam's retroactives and/or mom and/or Mother Nature, "Ha! Mas!" might be.-->
 
@@ -507,7 +507,7 @@ Henry once told me over lunch or dinner that if I keep posting about politics on
 
 
 
-All of this work describes crimes committed to me or synchronicities that are of public concern, and, mostly, by public people with publications. First amendment, free speech, truth, public personas, religion, defensive, #MeToo precedent [even with respect to the University of Rochester](https://thejaegercase.com).
+<!--All of this work describes crimes committed to me or synchronicities that are of public concern, and, mostly, by public people with publications. First amendment, free speech, truth, public personas, religion, defensive, #MeToo precedent [even with respect to the University of Rochester](https://thejaegercase.com).-->
 
 
 
