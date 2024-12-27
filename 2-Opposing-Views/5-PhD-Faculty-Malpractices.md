@@ -1,11 +1,9 @@
 # Part 5
-<!--
+
 - **University-hospital psychiatrists**
 - **University outpatient doctor**
--->
 - **University PhD advisor**
-<!--- **University Deans**-->
-<!--- **Wendi Heinzelman and Nick Vamivakas**-->
+- **University Deans**
 
 ## Flying Colors
 
@@ -451,7 +449,6 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 ### At Home
 
 > This chapter can probably go at end of Formal-Disproof/They-Didn't-Know.md
-- **University Deans**
 
 <!--I have never met Nick Vamivakas in my life.-->
 
