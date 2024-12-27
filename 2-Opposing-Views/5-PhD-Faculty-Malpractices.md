@@ -355,7 +355,7 @@ Also, it's improbable Chenliang would have accepted somebody else's student with
 
 I would've lost the opportunity permanently for a PhD if I took a medical leave. 
 
-## Red Light at Clover St. 
+## Red Light 
 
 <p align="center">
 <a href="https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Light/Henry.png">
