@@ -509,6 +509,8 @@ Henry once told me over lunch or dinner that if I keep posting about politics on
 
 All of this work describes crimes committed to me or synchronicities that are of public concern, and, mostly, by public people with publications. First amendment, free speech, truth, public personas, religion, defensive, #MeToo precedent [even with respect to the University of Rochester](https://thejaegercase.com).
 
+Some synchronicities are necessary to the autobiographical description of my life. Furthermore, they contribute evidence to the physics theory that concerns the public. That evidence is also necessary in justifying my actions which led to the hospitalizations. The Messianic scope of this poses the whole work as necessary, if believed, with lucid physics evidence to justify it as so.
+
 
 <!--
 Move this to Early Work
