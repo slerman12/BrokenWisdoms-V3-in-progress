@@ -487,7 +487,7 @@ Their last names, interestingly, start and begin with "H" and "as," to emphasize
 
 Or maybe I am Hamas, backwards: "Ah!" follows "Sam," or "Sam" goes "Ah!"
 
-One synchronicity that we can be sure of, is [I’m the CEO and/or rightful leader of OpenAI](#mhdpa-summary).
+One synchronicity that we can be sure of, is [I’m the CEO of OpenAI](#mhdpa-summary).
 
 ### On Mars
 
