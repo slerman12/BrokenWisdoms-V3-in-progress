@@ -483,6 +483,8 @@ If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who
 
 Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote, but as long as it's known *I'm not Hamas* (the opposite: "Sam" goes "Ah!" in terror), a necessary <!--([in-context](#mhdpa-summary))--> disambiguation for future synchronicity interpretation, as per my mom or a lawyer's.
 
+Those who laugh at Sam's retroactives and/or mom and/or Mother Nature, "Ha! Mas!" might be.
+
 ### On Mars
 
 The university trafficked me through their unintelligent, or "artificially" intelligent, system, benzo terror described [above](#part-5), and [ignored me](#red-light). Henry also ignored my emails, having been retired since 2022 in his mid-60s, with a [celebration reported by the University of Rochester in 2023](https://events.rochester.edu/event/henry_a_kautz_retirement_celebration). I learned that he was retired through Chenliang, around the time of a six-month review that Henry would've had to attend if he were to follow through on his committee obligations. Henry and I didn't have a bad relationship. He didn't notify me. To neglect to notify a former PhD student, that you advised, whose PhD committee you were still on, about your retirement, with no reason not to, is "like worrying about traffic regulations on Mars," to quote Henry (source: WXXI interview from a while ago, maybe not archived online, paraphrased from accurately-depicted memory), when he described what it's like to worry about the dangers of a superintelligence.
