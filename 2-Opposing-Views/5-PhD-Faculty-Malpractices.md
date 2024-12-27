@@ -453,11 +453,13 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 > This chapter can probably go at end of Formal-Disproof/They-Didn't-Know.md
 - **University Deans**
 
-I have never met Nick Vamivakas in my life.
+<!--I have never met Nick Vamivakas in my life.-->
 
-[October 12](8.3-PhD-Faculty-Malpractices.md) came my notice of termination from CS Chair Michael Scott—I was at home with my mom. On 10/31/23, Halloween, a day symbolizing terror, the termination was executed.
+I was terminated on [October 12](8.3-PhD-Faculty-Malpractices.md). 
 
 To ignore a PhD student sending emails to Dean Wendi Heinzelman, Dean Nick Vamivakas, and his faculty summarizing medical trauma, termination, and workers injuries inflicted by the university is an extreme administration malpractice. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I accepted 5 days after on 10/25/30 requesting that they extend my stipend through November, and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
+
+The termination was executed on 10/31/23, Halloween.
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
@@ -469,7 +471,9 @@ To ignore a PhD student sending emails to Dean Wendi Heinzelman, Dean Nick Vamiv
 </a>
 </p>
 
-Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, about the [October 7 attack on Israel by Hamas](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel), but perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this."<!-- while every of my emails were ignored by Heinzelman and Vamivakas.-->
+I was at home when both emails arrived. Halloween is a day that symbolizes terror. October 12 was 5 days after a global terror event, the Hamas attack on Israel, [October 7](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel).
+
+Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this."<!-- while every of my emails were ignored by Heinzelman and Vamivakas.-->
 
 That might suggest another synchronicity, that their termination of me was like a terrorist attack, as it **(1)** followed shortly after October 7, **(2)** was executed on Halloween, **(3)** was the only subject remarked upon by Dean Vamivakas, and the two Deans informed of the **(4)** terrors described in this book were Heinzelman and Vamivakas, whose **(5)** names combine rather to sound like "Hamas." However, I disagree with this characterization. I think that several details change the interpretation. First of all, I sent my research plan on October 6, [requesting "peace"](8.3-PhD-Faculty-Malpractices.md) towards the end, a date that is closer to October 7 than October 12 is. Furthermore, I was at home with my mom when these emails arrived to me, after the date of October 7. I think the most likely interpretation is that I was an innocent Palestinian, mom and child, and the University of Rochester was Israel. The university has gone to great [lengths](https://www.rochester.edu/president/message-on-student-arrests/?fbclid=IwZXh0bgNhZW0CMTEAAR2U2tk3fTciEJwGTtSv5q62F6WP6LPad7bpjXdQXuKFavth8XLu5BJGcNY_aem_zIjOln0NL9f3CaMPoa7L5w) to fight ["antisemitic"](https://x.com/StopAntisemites/status/1856371254669844925) activity on campus.
 
