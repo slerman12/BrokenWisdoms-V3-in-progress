@@ -458,7 +458,7 @@ I was at home when both emails arrived. Halloween is a day that symbolizes terro
 
 Herein I've described [many terrors inflicted on me by the University of Rochester](#part-5).
 
-Nick's only email to me happened on 10/31/23, about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, and perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this."<!-- while every of my emails were ignored by Heinzelman and Vamivakas.-->
+Nick's only email to me happened on 10/31/23, about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, and perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this," while my emails continued to be ignored.<!-- while every of my emails were ignored by Heinzelman and Vamivakas.-->
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
