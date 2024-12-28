@@ -448,13 +448,13 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ### At Home
 
-> ### $\Huge &#8220;$
-> [...] literally fighting through peak of human spirit, in torture. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. [...]
-> > ### $\Huge &#8221;$
+### $\Huge &#8220;$
+[...] literally fighting through peak of human spirit, in torture. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. [...]
+### $\Huge &#8221;$
 
-> ### $\Huge &#8220;$
-> They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive—without stop—more than a year [...]
-> > ### $\Huge &#8221;$
+### $\Huge &#8220;$
+They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive—without stop—more than a year [...]
+### $\Huge &#8221;$
 
 It's an extreme administration malpractice that Dean Wendi Heinzelman, Dean Nick Vamivakas, and other faculty ignored a PhD student emails describing medical trauma, termination, and workers injuries inflicted by the university. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I [accepted 5 days after on 10/25/30](2-Opposing-Views/8.3-PhD-Faculty-Malpractices.md), and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
 
