@@ -452,6 +452,10 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 > If I kill myself, part of the reason is this chapter
 
+> Can probably go under how my grandma was a principal of a school
+
+> All of these chapters can be moved to the next file
+
 It's an extreme administration malpractice that Dean Wendi Heinzelman, Dean Nick Vamivakas, and other faculty ignored a PhD student emails describing medical trauma, termination, and workers injuries inflicted by the university. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I [accepted 5 days after on 10/25/30](2-Opposing-Views/8.3-PhD-Faculty-Malpractices.md), and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
 
 I was terminated on [October 12](8.3-PhD-Faculty-Malpractices.md), and it felt like a terror strike. 
