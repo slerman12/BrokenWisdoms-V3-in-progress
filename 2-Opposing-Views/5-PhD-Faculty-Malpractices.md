@@ -495,6 +495,8 @@ The systems of the University of Rochester [have shown to be an artificially int
 
 It's not wise to laugh ("Ha!") *at* one's own mother, nor one's Mother Nature. Each our [two "Mas,"](https://en.wikipedia.org/wiki/Hagar) it is a terror to laugh at. (Though until the link to Sarah and Hagar, whose progeny of Abraham were the Jews of Isaac and the Muslims of Ishmael, this was meant to lighten the tone).
 
+Also worth mentioning that Jacob ("Israel") had to escape his somewhat threatening employer in order to start his nation.
+
 ### On Earth
 
 > Can divide into two sub-chapters
