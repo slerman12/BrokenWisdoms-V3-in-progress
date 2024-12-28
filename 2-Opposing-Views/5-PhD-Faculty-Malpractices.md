@@ -448,18 +448,17 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ### At Home
 
-> ### Recap
-> ### $\Huge &#8220;$
-> [...] literally fighting through peak of human spirit, in torture. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. [...]
->
-> They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive—without stop—more than a year [...]
-> ### $\Huge &#8221;$
-
-It's an extreme administration malpractice that Dean Wendi Heinzelman, Dean Nick Vamivakas, and other faculty ignored a PhD student emails describing medical trauma, termination, and workers injuries inflicted by the university. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I [accepted 5 days after on 10/25/30](2-Opposing-Views/8.3-PhD-Faculty-Malpractices.md), and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
+It's an extreme administration malpractice that Dean Wendi Heinzelman, Dean Nick Vamivakas, and other faculty ignored a PhD student emails describing medical trauma, termination, and workers injuries, those that were inflicted by the university. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I [accepted 5 days after on 10/25/30](2-Opposing-Views/8.3-PhD-Faculty-Malpractices.md), and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
 
 I was terminated on [October 12](8.3-PhD-Faculty-Malpractices.md), and it felt like a terror strike. 
 
 The termination was executed on 10/31/23, Halloween, a day symbolizing terror.
+
+I was at home when both emails arrived. Halloween is a day that symbolizes terror. October 12 was 5 days after a global terror event, the Hamas attack on Israel, [October 7](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel).
+
+Herein I've described [many terrors inflicted on me by the University of Rochester](#part-5).
+
+Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this."<!-- while every of my emails were ignored by Heinzelman and Vamivakas.-->
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
@@ -470,12 +469,6 @@ The termination was executed on 10/31/23, Halloween, a day symbolizing terror.
 <br>From: University of Rochester, <a href="https://www.rochester.edu/college/deans/">Meet the Deans</a>.
 </a>
 </p>
-
-I was at home when both emails arrived. Halloween is a day that symbolizes terror. October 12 was 5 days after a global terror event, the Hamas attack on Israel, [October 7](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel).
-
-Herein I've described [many terrors inflicted on me by the University of Rochester](#part-5).
-
-Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this."<!-- while every of my emails were ignored by Heinzelman and Vamivakas.-->
 
 That might suggest another synchronicity, that their termination of me was like a terrorist attack, as it **(1)** followed shortly after October 7, **(2)** was executed on Halloween, **(3)** Israel-Gaza was the only subject remarked upon by Dean Vamivakas, and the two Deans informed of the **(4)** terrors described in this book were Heinzelman and Vamivakas, whose **(5)** names combine rather to sound like "Hamas." However, I disagree with this characterization. I think that several details change the interpretation. First of all, I sent my research plan on October 6, [requesting "peace"](8.3-PhD-Faculty-Malpractices.md) towards the end, a date that is closer to October 7 than October 12 is. (Itself a synchronicity, since the "peace" phrasing preceded the attack). Furthermore, I was at home with my mom when these emails arrived to me, after the date of October 7. I think the most likely interpretation is that I was an innocent, somewhere in the region, mom and child, and the University of Rochester was Israel. The university has gone to great [lengths](https://www.rochester.edu/public-safety/arrests-made-as-part-of-poster-investigation/) to fight ["antisemitic"](https://x.com/StopAntisemites/status/1856371254669844925) activity on campus, having [arrested 4 students](https://www.rochester.edu/public-safety/arrests-made-as-part-of-poster-investigation/)<!--, with one under investigation, for putting up ["Wanted" posters](https://x.com/StopAntisemites/status/1856371254669844925) and "deliberate and deplorable actions targeted toward members of our University community, including members of our Jewish population."--> for putting up [posters in the tunnels decrying the leadership](https://x.com/StopAntisemites/status/1856371254669844925). The University of Rochester, as an institution or campus, is distinct from any one individual or leadership in the region. <!--For example, one set of connections is, campus as Israel and Gaza, students and leadership as Israelis, Palestinians, IDF, and Hamas.--> For example, the whole region may be Israel and Gaza, and Israelis, Palestinians, IDF, and Hamas in one campus.
 
@@ -512,7 +505,13 @@ Maybe also that his blind father blessed him on his deathbed (see next chapters)
 
 Henry once told me over lunch or dinner that if I keep posting about politics on Facebook, that he might have to unfollow me. That's fair. I kept posting about Bernie Sanders, who his other students didn't support. This was just before Covid was escalating beyond when Henry would reasonably doubt its proportion. Henry predicted Covid was like other recent flus, going up and then falling down. Another of his students had a graph on his phone of other flus. Henry wasn't worried. I wasn't either (though I didn't make a prediction either way, and have since evidenced my ability to [about major global geopolitical events](https://qr.ae/p2VhpX)). Much of what I was posting was very left-wing, about workers rights and so on, and this was already after the Super Tuesday ballots in the Democratic primary election, recent in memory during that lunch/dinner, as I'd mentioned how Warren was the only candidate who stayed in of the competetive opponents to Biden or Bernie who dropped out, and Henry seemed to surprisingly believe me about how that [changed the electorate map](https://github.com/slerman12/Governance/blob/Ancillary/Electoral-Math.py) while that was not yet mathematically computed ([which I verified recently](https://github.com/slerman12/Governance/blob/Ancillary/Electoral-Math.py)). Hard to remember, but that last-minute collusion was before the severity of Covid had gotten predictably bad, but just started to worsen in the US starting from the first American death as reported by the CDC [that happened on the day of Biden's comeback victory less than a week earlier.](https://medium.com/@slerman12/does-nature-endorse-f3e9cd22bdc2) The Biblical proportion synchronicities [do not start or end there](https://medium.com/@slerman12/does-nature-endorse-f3e9cd22bdc2), whose [predictiveness](https://qr.ae/p2VhpX) make this work a physics concern, which is Dean Vamivakas's field of study. 
 
+### Recap
 
+> ### $\Huge &#8220;$
+> [...] literally fighting through peak of human spirit, in torture. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. [...]
+>
+> [...] They say the only thing to fear is fear itself: GABA downregulation is fear itself [...] like being in a warzone. [...]
+> ### $\Huge &#8221;$
 
 <!--All of this work describes crimes committed to me or synchronicities that are of public concern, and, mostly, by public people with publications. First amendment, free speech, truth, public personas, religion, defensive, #MeToo precedent [even with respect to the University of Rochester](https://thejaegercase.com).-->
 
