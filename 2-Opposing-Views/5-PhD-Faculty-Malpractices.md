@@ -448,10 +448,9 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ### At Home
 
+> ### Recap
 > ### $\Huge &#8220;$
-> [...] literally fighting through peak of human spirit, in torture. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. 
->
-> [...]
+> [...] literally fighting through peak of human spirit, in torture. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. [...]
 >
 > They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive—without stop—more than a year [...]
 > ### $\Huge &#8221;$
