@@ -497,6 +497,8 @@ It's not wise to laugh ("Ha!") *at* one's own mother, nor one's Mother Nature. E
 
 Also worth mentioning that Jacob ("Israel") had to escape his somewhat threatening employer in order to start his nation.
 
+Maybe also that his blind father blessed him on his deathbed (see next chapters).
+
 ### On Earth
 
 > Can divide into two sub-chapters
