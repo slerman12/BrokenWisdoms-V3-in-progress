@@ -448,17 +448,13 @@ To this day, Henry hasn’t acknowledged that what I was arguing to him about, h
 
 ### At Home
 
-It's an extreme administration malpractice that Dean Wendi Heinzelman, Dean Nick Vamivakas, and other faculty ignored a PhD student emails describing medical trauma, termination, and workers injuries, those that were inflicted by the university. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I [accepted 5 days after on 10/25/30](2-Opposing-Views/8.3-PhD-Faculty-Malpractices.md), and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
+> This chapter can probably go at end of Formal-Disproof/They-Didn't-Know.md
+
+It's an extreme administration malpractice that Dean Wendi Heinzelman, Dean Nick Vamivakas, and other faculty ignored a PhD student emails describing medical trauma, termination, and workers injuries inflicted by the university. Dean Heinzelman ignored my emails entirely. Dean Vamivakas too. Dean Vamivakas was mentioned by the CS Chair Michael Scott, for a possible meeting, I [accepted 5 days after on 10/25/30](2-Opposing-Views/8.3-PhD-Faculty-Malpractices.md), and CS Chair Scott didn't reply, nor Dean Vamivakas, whose only email to me came later.
 
 I was terminated on [October 12](8.3-PhD-Faculty-Malpractices.md), and it felt like a terror strike. 
 
 The termination was executed on 10/31/23, Halloween, a day symbolizing terror.
-
-I was at home when both emails arrived. Halloween is a day that symbolizes terror. October 12 was 5 days after a global terror event, the Hamas attack on Israel, [October 7](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel).
-
-Herein I've described [many terrors inflicted on me by the University of Rochester](#part-5).
-
-Nick's only email to me happened<!-- on 10/31/23,--> to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this."<!-- while my emails continued to be ignored.--><!-- while every of my emails were ignored by Heinzelman and Vamivakas.-->
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
@@ -470,21 +466,17 @@ Nick's only email to me happened<!-- on 10/31/23,--> to be about Israel-Gaza, fo
 </a>
 </p>
 
-That might sound reductively suggestive of another synchronicity, that their termination of me was like a terrorist attack, as it **(1)** followed shortly after October 7, **(2)** was executed on Halloween, **(3)** Israel-Gaza was the only subject remarked upon by Dean Vamivakas, and the two Deans informed of the **(4)** terrors described in this book were Heinzelman and Vamivakas, whose **(5)** names combine rather to sound like "Hamas." However, I disagree with this characterization. I think that several details change the interpretation. First of all, I sent my research plan on October 6, [requesting "peace"](8.3-PhD-Faculty-Malpractices.md) towards the end, a date that is closer to October 7 than October 12 is. (Itself a synchronicity, since the "peace" phrasing preceded the attack). <!--Furthermore, I was at home with my mom when these emails arrived to me, after the date of October 7. I think the most likely interpretation is that I was an innocent, somewhere in the region, mom and child, and the University of Rochester was Israel.--> 
+I was at home when both emails arrived. Halloween is a day that symbolizes terror. October 12 was 5 days after a global terror event, the Hamas attack on Israel, [October 7](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel).
 
-<!--The university has gone to great [lengths](https://www.rochester.edu/public-safety/arrests-made-as-part-of-poster-investigation/) to fight ["antisemitic"](https://x.com/StopAntisemites/status/1856371254669844925) activity on campus, having [arrested 4 students](https://www.rochester.edu/public-safety/arrests-made-as-part-of-poster-investigation/)--><!--, with one under investigation, for putting up ["Wanted" posters](https://x.com/StopAntisemites/status/1856371254669844925) and "deliberate and deplorable actions targeted toward members of our University community, including members of our Jewish population."--> <!--for putting up [posters in the tunnels decrying the leadership](https://x.com/StopAntisemites/status/1856371254669844925), though I doubt the students did so because the faculty were Jewish.-->  <!--The University of Rochester, as an institution or campus, is distinct from any one individual or leadership in the region. --><!--For example, one set of connections is, campus as Israel and Gaza, students and leadership as Israelis, Palestinians, IDF, and Hamas.--> <!--For example, the whole region may be Israel and Gaza, and Israelis, Palestinians, IDF, and Hamas in one campus.--> 
+Herein I've described [many terrors inflicted on me by the University of Rochester](#part-5).
 
-If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against the offensive, "Israel has a right to defend itself against Hamas." 
+Nick's only email to me happened to be about Israel-Gaza, for "More grief drop-in groups," forwarded directly to me on Halloween, but perhaps sent to everybody, and even to that, I replied, with a "Thanks Nick, I appreciate this."<!-- while every of my emails were ignored by Heinzelman and Vamivakas.-->
 
-Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote.
+That might suggest another synchronicity, that their termination of me was like a terrorist attack, as it **(1)** followed shortly after October 7, **(2)** was executed on Halloween, **(3)** Israel-Gaza was the only subject remarked upon by Dean Vamivakas, and the two Deans informed of the **(4)** terrors described in this book were Heinzelman and Vamivakas, whose **(5)** names combine rather to sound like "Hamas." However, I disagree with this characterization. I think that several details change the interpretation. First of all, I sent my research plan on October 6, [requesting "peace"](8.3-PhD-Faculty-Malpractices.md) towards the end, a date that is closer to October 7 than October 12 is. (Itself a synchronicity, since the "peace" phrasing preceded the attack). Furthermore, I was at home with my mom when these emails arrived to me, after the date of October 7. I think the most likely interpretation is that I was an innocent, somewhere in the region, mom and child, and the University of Rochester was Israel. The university has gone to great [lengths](https://www.rochester.edu/public-safety/arrests-made-as-part-of-poster-investigation/) to fight ["antisemitic"](https://x.com/StopAntisemites/status/1856371254669844925) activity on campus, having [arrested 4 students](https://www.rochester.edu/public-safety/arrests-made-as-part-of-poster-investigation/)<!--, with one under investigation, for putting up ["Wanted" posters](https://x.com/StopAntisemites/status/1856371254669844925) and "deliberate and deplorable actions targeted toward members of our University community, including members of our Jewish population."--> for putting up [posters in the tunnels decrying the leadership](https://x.com/StopAntisemites/status/1856371254669844925). The University of Rochester, as an institution or campus, is distinct from any one individual or leadership in the region. <!--For example, one set of connections is, campus as Israel and Gaza, students and leadership as Israelis, Palestinians, IDF, and Hamas.--> For example, the whole region may be Israel and Gaza, and Israelis, Palestinians, IDF, and Hamas in one campus.
 
-<!--
-The University of Rochester is a big campus, and who are more like the Israelis, who are more like the Palestinians, who are more like the IDF, and who are more like Hamas, and who are more like the Netanyahu government, and who are more like the leadership of Hamas, is impossible to say.
+If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against<!--doesn't like--> the offensive, "Israel has a right to defend itself against Hamas." 
 
-If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against the offensive, "Israel has a right to defend itself against Hamas." 
-
-Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote.
--->
+Their last names, interestingly, start and begin with "H" and "as," to emphasize, maybe—though interpreting Biblical proportion synchronicities is hard—the word "has" in the above quote<!--, but as long as it's known *I'm not Hamas*--><!-- (the opposite: "Sam" goes "Ah!" in terror)--><!--, a necessary --><!--([in-context](#mhdpa-summary))--><!-- disambiguation for future synchronicity interpretation, as per my mom or a lawyer's-->.
 
 <!--Those who laugh at Sam's retroactives and/or mom and/or Mother Nature, "Ha! Mas!" might be.-->
 
