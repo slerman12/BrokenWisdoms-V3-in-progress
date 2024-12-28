@@ -488,6 +488,8 @@ Or maybe I am Hamas, backwards: "Ah!" follows "Sam," or "Sam" goes "Ah!"
 
 One synchronicity that we can be sure of, is [I’m the CEO of OpenAI](#mhdpa-summary).
 
+If I'm supposed to be Israel in this metaphor, then to quote Bernie Sanders, who is against the offensive, "Israel has a right to defend itself against Hamas." 
+
 ### On Mars
 
 <!--The university trafficked me through their unintelligent, or "artificially" intelligent, system, benzo terror described [above](#part-5), and [ignored me](#red-light).--> 
