@@ -490,7 +490,7 @@ Or maybe I am Hamas, backwards: "Ah!" follows "Sam," or "Sam" goes "Ah!"
 
 One synchronicity that we can be sure of, is [I’m the CEO of OpenAI](#mhdpa-summary).
 
-> If there's any point to this, it's that the University of Rochester is committing war crimes
+> If there's any point to this, it's that the University of Rochester is committing war crimes through their medical malpractices
 
 ### On Mars
 
