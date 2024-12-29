@@ -505,7 +505,7 @@ Also worth mentioning that Jacob ("Israel") had to escape his somewhat threateni
 
 Maybe also that his blind father blessed him on his deathbed (see next chapters).
 
-Though at this point (termination), I was on the Judges chapter of my reading of the Torah.
+Though at this point (termination), I was on the Judges chapter of my first/only reading of the Torah.
 
 ### On Earth
 
