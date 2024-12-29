@@ -84,7 +84,7 @@ I described that path with some more specifics [here](Consciousness.md#cosmogene
 
 ### Logic
 
-> To do: Maybe something more formal deduction-based: In logic, one can’t assume "no assumption." "No assumption" would also be an assumption. One can only assume the axioms that incur the least loss in generality. "Nothing" is not the lack of an axiom, but an axiom. "Everything" is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can if there’s no forward direction. "Nothing" is distinct from empty space—it’s undefinable without an "everything" in reference to it.
+> To do: Maybe something more formal deduction-based: In logic, one can’t assume "no assumption." "No assumption" would also be an assumption. One can only assume the axioms that incur the least loss in generality. "Nothing" is not the lack of an axiom, but an axiom. "Everything" is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can <!--if there’s no-->exist without a forward direction. "Nothing" is distinct from empty space<!--—it’s undefinable without an "everything" in reference to it-->.
 >
 > An assumption/axiom is always "a loss in generality," and "a loss in generality" is always an assumption/axiom.
 
