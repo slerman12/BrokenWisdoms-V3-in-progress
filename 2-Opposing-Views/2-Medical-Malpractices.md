@@ -199,9 +199,9 @@ Samarkand is an old city. Maybe [one of the oldest in the world](https://www.adv
 
 In that city, my uncle Sláva was born first, then my mother, Nélya. Later, my uncle met my aunt Jenya and they had two daughters, Lena and Irina, with Lena <!--being--> the oldest. <!--All of us—m-->My cousins, my sister, and I were born in Samarkand, Ashkenazi Jews all, in an ancient, multi-ethnic city.
 
-My mother was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mother wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandmother’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
+My mom was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mom wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandma’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
 
-"Sam of Samarkand" (nor "Marina of Maracanda") wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, due to the [formal mistakes and truncations](3-PhD-Faculty-Malpractices.md#immigration) of others, during immigration, Kindargarten, and until I turned 16, ultimately becoming "Sam of Samarkand" in America independent of any of my family.
+"Sam of Samarkand" (nor "Marina of Maracanda") wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, due to the [formal mistakes and truncations](3-PhD-Faculty-Malpractices.md#immigration) of others, during immigration, Kindargarten, and until I turned 16, ultimately becoming "Sam of Samarkand" in America independent of any of my family or myself.
 
 ### Ancestral Innocence
 
