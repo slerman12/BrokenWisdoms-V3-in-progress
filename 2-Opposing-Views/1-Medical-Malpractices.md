@@ -59,7 +59,7 @@ My electric razor—from my grandpa—had broken in the luggage. There, I had to
 
 Here begins the story of how my hair fell out.
 
-That summer 2017, immediately *at the head* (pun noticed, but not overly intended) of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that is injected into the stomach on a regular basis and laser-targets a specific antibody in the body associated with eczema, system-wide. 
+That summer 2017, immediately *at the head* (pun noticed, but not overly intended) of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that is injected into the stomach on a regular basis and laser-targets a specific antibody in the body system-wide associated with eczema. 
 
 By the way, the scariest nightmare I ever had, over and over that whole night, was the night of the day I injected Dupilumab the first time, that summer after the prescription. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
