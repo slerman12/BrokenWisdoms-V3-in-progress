@@ -185,23 +185,23 @@ Years later, when the war ended, they came back to Chernihiv. Yakob, my grandpa'
 
 ### A New Name
 
-At 16, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that helped him be safer. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman," an old Ashkenazi Jewish surname with German origins means "teacher."
+At 16, my grandpa formalized his name on the official record. He was born "Izya," a Jewish name, but in a world like his, being openly Jewish was dangerous. He adopted "Yury"—a name that helped him be safer. The nickname for "Yury," which he also went by, was "Yura." During the war, his documents had been lost, and when he had to make things official, he chose "Yury" for good. His last name, though, stayed the same: "Lerman," an old Ashkenazi Jewish surname with German origins meaning "teacher."
 
 ### Asya and Yury
 
-After the war, my grandpa went to college in Kiev. My grandma, Asya—a Rabinovich (meaning "son of Rabbi," though her father was a cobbler)—was in the same city, attending a different college. They had known each other as children. She was a year older. They crossed paths again, and <!--this time, they--> got married. She took his name, my grandma, Asya Lerman.
+After the war, my grandfather went to college in Kiev. My grandmother, Asya—a Rabinovich (meaning "son of Rabbi," though her father was a cobbler)—was in the same city, attending a different college. They had known each other as children. She was a year older. They crossed paths again, and <!--this time, they--> got married. She took his surname, "Lerman."
 
-Not long after, the Soviet Union sent my grandpa to work as a leather technology engineer at a sheepskin factory in Samarkand, Uzbekistan. So, in 1952, my grandparents left behind Kiev, Chernihiv, Zhytomyr—all the places that were tied to their lives in Ukraine. They moved to Samarkand. My grandma, too, made a new life there, teaching German.
+Not long after, the Soviet Union sent my grandfather to work as a leather technology engineer at a sheepskin factory in Samarkand, Uzbekistan. So, in 1952, my grandparents left behind Kiev, Chernihiv, Zhytomyr—all the places that were tied to their lives in Ukraine. They moved to Samarkand. My grandmother, too, made a new life there, teaching German.
 
 ### Samarkand
 
 Samarkand is an old city. Maybe [one of the oldest in the world](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.). It’s been standing for thousands of years, its [architecture modest yet beautiful](https://travelcocktail.org/samarkand/). Back in ancient times, it was a key stop on the Silk Road, where trade routes from [China, India](https://www.britannica.com/place/Samarkand-Uzbekistan), [and Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures) all met. In the Soviet era, Russian became the dominant language, though Uzbek was used in official documents. Islam is the main religion there, then and now. Samarkand is a [city of intersections](https://whc.unesco.org/en/list/603/)—intersections of history, culture, and commerce. Its original name, Maracanda, goes back to the 4th century BCE.
 
-In that city, my uncle Sláva was born first, then my mother, Nélya. Later, my uncle met my aunt Jenya and they had two daughters, Lena and Irina, with Lena <!--being--> the oldest. <!--All of us—m-->My cousins, my sister, and I were born in Samarkand, Ashkenazi Jews all, in an ancient, multi-ethnic city.
+In that city, my uncle Sláva was born first, then my mother, Nélya. Later, my uncle met my aunt Jenya and they had two daughters, Lena and Irina, with Lena <!--being--> the oldest. <!--All of us—m-->My cousins, my sister, and I were born in Samarkand, Ashkenazi Jews on all sides, in an ancient, multi-ethnic city.
 
-My mom was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mom wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandma’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
+My mother was 33 when she had my sister, Marina. Five years later, at 38, she had me. My sister’s name was inspired by Maná, but my mother wanted something different, so she chose "Marina." My name? "Sam of Samarkand" emerged only after we immigrated to America. My real name is Siímyon. I was named after my grandmother’s sister’s late husband, Siímyon, who passed away years before I was born. But my family calls me "Syoma."
 
-"Sam of Samarkand" (nor "Marina of Maracanda") wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, due to the [formal mistakes and truncations](3-PhD-Faculty-Malpractices.md#immigration) of others, during immigration, Kindargarten, and until I turned 16, ultimately becoming "Sam of Samarkand" in America independent of any of my family or myself.
+"Sam of Samarkand" (nor "Marina of Maracanda") wasn’t planned. It just happened. My name took an especially roundabout path from Siímyon, due to the [formal mistakes and truncations](3-PhD-Faculty-Malpractices.md#immigration) of others, during immigration, Kindargarten, and until I turned 16, ultimately becoming "Sam of Samarkand" in America independent of any of my family.
 
 ### Ancestral Innocence
 
