@@ -42,11 +42,11 @@ That is the empty set, as described in the <!--$\color{#7B52D7} \textbf{&#9432;}
 
 ### (1) Goodness, truth, and sufficiency.
 
-Suppose some reasons they had for terminating me were good, true, or sufficient. ([False](6-Opposing-Views.md), but assume true).
+Suppose some reasons they had for terminating me were good, true, or sufficient. ([False](../2-Opposing-Views/8.2-PhD-Faculty-Malpractices.md), but assume true).
 
 ### (2) Student's negligence.
 
-Suppose I didn’t do something they suggested, requested, or required of me, that I didn't notify in advance I couldn't with good cause. ([False](6-Opposing-Views.md#tom-howard) and [doubly false](#slavery-or-impossible), but assume true).
+Suppose I didn’t do something they suggested, requested, or required of me, that I didn't notify in advance I couldn't with good cause. ([False](../2-Opposing-Views/8.2-PhD-Faculty-Malpractices.md#does-no-no-mean-no) and [doubly false](../2-Opposing-Views/8.2-PhD-Faculty-Malpractices.md#novel-reinforcement-learning-systems-algorithm-suggestion), but assume true).
 
 ### (3) PhD student handbook.
 
