@@ -26,7 +26,7 @@ Jenya's brother's family lived in Moscow, so my mom was able to leave us with th
 
 Anti-semitism in Uzbekistan wasn't as bad as in other countries, she told me. In Ukraine, anti-semitism was always worse, from <!--(before and during)--> the war when my grandpa was young, to when my mom was an adult. <!--However, she told me, Jews customarily weren't allowed to hold higher offices in Uzbekistan.-->
 
-"I was at the conservatory. I wanted to study in a PhD program. I couldn't. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn't a chance for me, because I was Jewish."
+"I was at the conservatory. I wanted to study in a PhD program. I couldn't. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn't a chance for me, because I was Jewish." This, like everything in this book, is a true story, not just added for thematic relevance.
 
 She wasn't allowed to do a doctoral, despite having graduated with a diploma with distinction for both college and in the conservatory of music where she earned her master's degree in Music Theory. Her thesis was recommended as the best research paper for publishing, recommended by a woman professor at Moscow Conservatory of Music who came from Russia to listen to the presentations, and my mom submitted it, but it was never published, because "Lerman" is a Jewish name, not Uzbek name.
 
@@ -39,7 +39,7 @@ The interview ended.
 
 ### Immigration
 
-Our yard gate in Samarkand was 33 Uzbekistan St., which today we are told by a friend who visited it that it's 27 Uzbekistan St., and by the looks of her photos (according to my mom), the neighborhood is completely, absolutely different from when we lived there.
+Our yard gate in Samarkand was 33 Uzbekistan St., which today we are told by a friend who visited it that it's 27 Uzbekistan St., and by the [looks of her photos](add the photos) (according to my mom), the neighborhood is completely, absolutely different from when we lived there. <!--(Again, also true. Possibly thematic relevance).-->
 
 We flew to NYC for one night, immigrating officially as Jewish refugees, half a year since the embassy interview, then to Rochester, New York after that night. I was 3 and two thirds, and had cried, perhaps foretellingly, on the plane from Uzbekistan. My name, was legally mistranslated to "Semen," later nicknamed by my kindergarten teacher "Sem." My mom (whose name was translated "Nellya") found a low-paying piano teaching job, and hoped to earn more money, so she got another degree, an associate's degree, at Monroe Community College, in Computer Information Systems, again [graduating with distinction](https://raw.githubusercontent.com/alder-tree/Assets/refs/heads/main/BrokenWisdoms/Diploma.jpeg). She ended up working multiple jobs, one as a piano teacher giving individual lessons for a piano studio, and another as a part-time computer tutor at the community college where she received her associate's degree in two different labs. My mom's students loved her in America, too. My mom taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn't good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java. 
 
