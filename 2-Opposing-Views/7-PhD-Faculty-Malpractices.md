@@ -90,7 +90,7 @@ He was the least-unappreciative of all of the CS faculty of my work, and that be
 
 I took every suggestion Chenliang and his lab, and the XRD group lab, gave me, like a democratic voting system. For example, immediate [TIMM architectures](https://github.com/AGI-init/UnifiedML/blob/main/ML/Agents/Blocks/Architectures/Vision/TIMM.py) support in UnifiedML (requested by a PhD student in Chenliang's lab), a [Related Works diagram and Bittle Bot artwork](.../2-Opposing-Views/8.2-PhD-Faculty-Malpractices.md#art-of-science-competition) (Chenliang's suggestion), and [sophisticated benchmarking and plotting mechanisms](https://github.com/AGI-init/UnifiedML/blob/main/ML/Benchmarking/Plot.py) (requested by, adjusted to, and built for the XRD group, that the XRD group used extensively, including generalized scatter plots and heatmaps supporting massively scalable arrays of experiments, which I ran), all of which, except Chenliang's diagram suggestion, I had to generalize across the full RL-supervised-and-generative unified API. Chenliang was present and co-leading every suggestion, meetings twice a week.
 
-I supported the groups with ideas and educational material, including many suggestions, rather than a small few across all of them.
+I supported the groups with ideas and my own educational materials and insights, sometimes extremely novel, including many suggestions, rather than a small few across the both of the labs.
 
 ### Disciplines I Did
 
