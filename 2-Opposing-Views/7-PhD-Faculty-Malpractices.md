@@ -86,6 +86,12 @@ I was rushing to make [this](https://docs.google.com/presentation/d/1QbWNfnWAgm0
 
 He was the least-unappreciative of all of the CS faculty of my work, and that became more true than ever with each year he saw my thinking, efficiency, and work ethic, but just as quickly lost sight of that when he remembered my paper count, despite the fact that he was usually tolerant to my submitting fewer papers to conferences compared to his other students, actually, especially as he was pragmatically satisfied by my work under the Mechanical Engineering funding, and as he and the whole Computer Vision lab were largely really impressed and believed in the concrescence-of-RL-supervised-and-generative UnifiedML framework I was building.
 
+#### Democratically Fully Obedient Worker
+
+I took every suggestion Chenliang and the lab, and the XRD group, gave me, like a democratic voting system. For example, immediate [TIMM architectures](https://github.com/AGI-init/UnifiedML/blob/main/ML/Agents/Blocks/Architectures/Vision/TIMM.py) support in UnifiedML (requested by a PhD student in Chenliang's lab; see "Usage:"), a [Related Works diagram and artwork](.../2-Opposing-Views/8.2-PhD-Faculty-Malpractices.md#art-of-science-competition) (Chenliang's suggestion in 2023 I think), and [sophisticated benchmarking and plotting mechanisms](https://github.com/AGI-init/UnifiedML/blob/main/ML/Benchmarking/Plot.py) (that the XRD group used extensively), all of which, except Chenliang's diagram suggestion, I had to generalize across the full RL-supervised-and-generative unified API. Chenliang was present for every suggestion and one of the leading members of each of the group meetings, bi-weekly (twice a week), wherein these conversations were had.
+
+I supported the groups with ideas and educational material, including many suggestions, rather than a small few across all of them.
+
 ### Disciplines I Did
 
 I did everything advised and required, amid and after the late-2020 - January, 2021 hospitalizations, medical trauma, and between bouts of severe [eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md). I exerted unthinkable discipline to stay functional during all times.
