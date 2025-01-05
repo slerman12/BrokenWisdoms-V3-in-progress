@@ -1,4 +1,4 @@
-# December, 2017 (in the House on May St.)
+# December, 2017 (in the [House on May St.](../2-Opposing-Views/1-Medical-Malpractices.md#house-on-may-st))
 
 At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
 
