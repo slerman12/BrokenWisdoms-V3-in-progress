@@ -86,6 +86,8 @@ I was rushing to make [this](https://docs.google.com/presentation/d/1QbWNfnWAgm0
 
 He was the least-unappreciative of all of the CS faculty of my work, and that became more true than ever with each year he saw my thinking, efficiency, and work ethic, but just as quickly lost sight of that when he remembered my paper count, despite the fact that he was usually tolerant to my submitting fewer papers to conferences compared to his other students, actually, especially as he was pragmatically satisfied by my work under the Mechanical Engineering funding, and as he and the whole Computer Vision lab were largely really impressed and believed in the concrescence-of-RL-supervised-and-generative UnifiedML framework I was building.
 
+I took every suggestion Chenliang and the lab gave me, like a democratic voting system. For example, immediate [TIMM architectures](https://github.com/AGI-init/UnifiedML/blob/main/ML/Agents/Blocks/Architectures/Vision/TIMM.py) support in UnifiedML (see example next to "Usage").
+
 ### Disciplines I Did
 
 I did everything advised and required, amid and after the late-2020 - January, 2021 hospitalizations, medical trauma, and between bouts of severe [eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md). I exerted unthinkable discipline to stay functional during all times.
