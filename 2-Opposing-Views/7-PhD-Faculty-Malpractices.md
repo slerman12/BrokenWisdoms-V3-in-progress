@@ -86,7 +86,7 @@ I was rushing to make [this](https://docs.google.com/presentation/d/1QbWNfnWAgm0
 
 He was the least-unappreciative of all of the CS faculty of my work, and that became more true than ever with each year he saw my thinking, efficiency, and work ethic, but just as quickly lost sight of that when he remembered my paper count, despite the fact that he was usually tolerant to my submitting fewer papers to conferences compared to his other students, actually, especially as he was pragmatically satisfied by my work under the Mechanical Engineering funding, and as he and the whole Computer Vision lab were largely really impressed and believed in the concrescence-of-RL-supervised-and-generative UnifiedML framework I was building.
 
-I took every suggestion Chenliang and the lab gave me, like a democratic voting system. For example, immediate [TIMM architectures](https://github.com/AGI-init/UnifiedML/blob/main/ML/Agents/Blocks/Architectures/Vision/TIMM.py) support in UnifiedML (see example next to "Usage").
+I took every suggestion Chenliang and the lab, and the XRD group, gave me, like a democratic voting system. For example, immediate [TIMM architectures](https://github.com/AGI-init/UnifiedML/blob/main/ML/Agents/Blocks/Architectures/Vision/TIMM.py) support in UnifiedML (see example next to "Usage"), a [Related Works diagram and artwork](.../2-Opposing-Views/8.2-PhD-Faculty-Malpractices.md#art-of-science-competition), and [sophisticated benchmarking and plotting mechanisms](https://github.com/AGI-init/UnifiedML/blob/main/ML/Benchmarking/Plot.py), all of which I had to generalize across the full RL-supervised-and-generative unified API.
 
 ### Disciplines I Did
 
