@@ -92,7 +92,7 @@ I took every suggestion Chenliang and his lab, and the XRD group lab, gave me, l
 
 I supported the groups with ideas and my own educational materials and insights, sometimes extremely novel, including many suggestions, rather than a small few across the both of the labs.
 
-One of Chenliang's Masters students helped beta test during and after being Chenliang's student, by Chenliang's command (voluntarily, but during, selected by me, command to me to give to beta for anybody in the group). He found it useful, and was really impressed.
+One of Chenliang's Masters students helped beta test during and after being Chenliang's student, by Chenliang's command (voluntarily, but during, selected by me, command to me to give to beta for anybody in the group). He found it useful, and was really impressed, supports helping me further.
 
 ### Disciplines I Did
 
