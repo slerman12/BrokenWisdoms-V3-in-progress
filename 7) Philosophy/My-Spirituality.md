@@ -1,4 +1,4 @@
-# December, 2017 
+# December, 2017 (in the House on May St.)
 
 At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
 
