@@ -74,7 +74,7 @@ Here is my favorite Shakespeare sonnet:
 >   - ["Convolution is all you need"](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) is okay because it's a valid insult. Much of the field convolutes things to keep methods cryptic, er, let's say by accident. The target is different. Punching up is fairer sport (art) than punching down.
 >     - Convolution is another method in deep learning, [from which MHDPA can be composed](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md).
 >     - So as it happens, there is a more fundamental method, and the former is not "all you need."
->     - "Relation" or "relationships" on the other hand, are even more fundamental, as each weight/parameter in a "linear layer"/kernel/MLP is an interaction weight for the summation of numbers, relating them via summation and usually non-linearities. Relation actually is all you need, next to the data itself, for AI.). (And an objective/purpose/reward system, and methods of updating thereto.
+>     - "Relation" or "relationships" on the other hand, are even more fundamental, as each weight/parameter in a "linear layer"/kernel/MLP is an interaction weight for the summation of numbers, relating them via summation and usually non-linearities. Relation actually is all you need, next to the data itself, and an objective/purpose/reward system, and methods of updating thereto, and qualia.
 >
 > And many more general concepts:
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations (local optima, myopia, e.g. myopic derivatives, and the process of searching/data-acquisition),
