@@ -26,7 +26,7 @@ Jenya's brother's family lived in Moscow, so my mom was able to leave us with th
 
 Anti-semitism in Uzbekistan wasn't as bad as in other countries, she told me. In Ukraine, anti-semitism was always worse, from <!--(before and during)--> the war when my grandpa was young, to when my mom was an adult. <!--However, she told me, Jews customarily weren't allowed to hold higher offices in Uzbekistan.-->
 
-"I was at the conservatory. I wanted to study in a PhD program. I couldn't. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn't a chance for me, because I was Jewish." This, like everything in this book, is a true story, not just added for thematic relevance.
+"I was at the conservatory. I wanted to study in a PhD program. I couldn't. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn't a chance for me, because I was Jewish." This is a true story, like everything in this book, not just added for thematic relevance.
 
 She wasn't allowed to do a doctoral, despite having graduated with a diploma with distinction for both college and in the conservatory of music where she earned her master's degree in Music Theory. Her thesis was recommended as the best research paper for publishing, recommended by a woman professor at Moscow Conservatory of Music who came from Russia to listen to the presentations, and my mom submitted it, but it was never published, because "Lerman" is a Jewish name, not Uzbek name.
 
