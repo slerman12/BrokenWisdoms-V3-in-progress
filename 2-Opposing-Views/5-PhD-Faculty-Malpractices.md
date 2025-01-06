@@ -472,7 +472,7 @@ The termination was executed on 10/31/23, Halloween, a day symbolizing terror.
 </a>
 </p>
 
-I was at home when both emails arrived. Halloween is a day that symbolizes terror. October 12 was 5 days after a global terror event, the Hamas attack on Israel, [October 7](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel).
+I was at home when both emails arrived. Halloween is a day that symbolizes terror. October 12 was 5 days after the global terror event, the Hamas attack on Israel, [October 7](https://en.wikipedia.org/wiki/7_October_Hamas-led_attack_on_Israel).
 
 Herein I've described [many terrors inflicted on me by the University of Rochester](#part-5).
 
