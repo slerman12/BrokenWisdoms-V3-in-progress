@@ -86,6 +86,7 @@ I was rushing to make [this](https://docs.google.com/presentation/d/1QbWNfnWAgm0
 
 He was the least-unappreciative of all of the CS faculty of my work, and that became more true than ever with each year he saw my thinking, efficiency, and work ethic, but just as quickly lost sight of that when he remembered my paper count, despite the fact that he was usually tolerant to my submitting fewer papers to conferences compared to his other students, actually, especially as he was pragmatically satisfied by my work under the Mechanical Engineering funding, and as he and the whole Computer Vision lab were largely really impressed and believed in the concrescence-of-RL-supervised-and-generative UnifiedML framework I was building.
 
+<!--
 ### Collaborations 
 
 #### Democratically Fully Obedient Worker(s)
@@ -99,6 +100,7 @@ I supported the groups with ideas and my own educational materials and insights,
 One of Chenliang's Masters students helped beta test during and after being Chenliang's student, by Chenliang's command (voluntarily, but during, selected by me, command to me to give to beta for anybody in the group). He found it useful, and was really impressed, supports helping me further.
 
 Other students in Chenliang's lab were also my friends. All were impressed by UnifiedML. Their excitement didn't become participatory in UnfiedML, but collaborations preceded and proceeded with respect to ["Eclectic-Mem"](6.2-Medical-Malpractices.md#stretching-vitals-and-ambulance) and their waiting for me to give them assignments regarding [Bittle Bots](8.2-PhD-Faculty-Malpractices.md#real-time-rl-robotics), while I still developed the [robotics framework](8.2-PhD-Faculty-Malpractices.md#description). They would've been helpful had Chenliang not decided to end his advisorship, and in any case were supportive and genuinely, with all of their PhD background and expertise, believed/believe in my ideas and work.
+-->
 
 ### Disciplines I Did
 
