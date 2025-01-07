@@ -76,7 +76,7 @@ Here is my favorite Shakespeare sonnet:
 >     - So as it happens, there is a more fundamental method, and the former (attention) is not "all you need" any more than convolution is.
 >     - "Relation" or "relationships" on the other hand, are even more fundamental, as each weight/parameter in a "linear layer"/kernel/MLP is an interaction weight for the summation of numbers, relating them via summation and usually non-linearities. Relation actually is all you need, next to the data itself, and an objective/purpose/reward system, and methods of updating thereto, and qualia if it doesn't fall into the "objective/purpose/reward system."
 >
-> And many more general concepts:
+> And [many more general concepts](https://github.com/slerman12/Teaching/blob/master/Other%20materials/Diagrams.md):
 > - (a) Randomness and diversity to escape local or "instantaneous" search limitations (local optima, myopia, e.g. myopic derivatives, and the process of searching/data-acquisition),
 > - (b) gradients as directions of most increase, whose finger can point both opposite less error or forward towards more reward, the latter especially when differentiating an actor through a good differentiable predictor, or predictors, of immediate and any future outcomes, where "good" depends on the quality and quantity (perhaps prioritized for efficiency and exploration-sake) of memory/data learned-from and the outcome-goal(s),
 > - (c) curriculum learning as prioritized experience replay, where data that there is most to learn from is prioritized for learning,
